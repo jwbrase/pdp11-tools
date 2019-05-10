@@ -23,7 +23,7 @@ address listed in Paul's comments above. As I have added nothing but descriptive
 comments, reuse is governed entirely by Paul's statement above (Paul must be
 credited in any modified source code, I do not need to be).
 
-Jon Brase--2019
+Jon Brase, 2019
 */
 
 
