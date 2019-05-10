@@ -10,3 +10,7 @@ example usage:
 inverse-od.pl ../example-input/bootcode.js ../example-output/bootcode
 
 2) abstapewrite.pl creates an absolute loader format paper tape image for the PDP-11, which can, among other things,  be used by the "load" command in simh. It takes a loadfile, and output file (which the final tape image will be written to), and an optional execute address on the command line. Each non-comment line in the load file defines a block in the tape image by specifying a file to be used as the data payload for that block and a load address for the block. The format uses a block with no payload to indicate the end of the image. If an execute address is specified, the address for the final block is filled with the execute address, otherwise the address for the final block is "0x0001".
+
+example usage:
+
+abstapewrite.pl ../example-input/nankervis_bootloader.link ../example-output/nankervis_bootloader.ptape 140000
