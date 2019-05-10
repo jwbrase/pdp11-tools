@@ -1,0 +1,3 @@
+#Loadfile to create an absolute loader paper tape image from the nankervis
+#PDP-11 bootloader.
+../example-output/bootcode	140000
