@@ -13,14 +13,16 @@
 #adjacent to newlines or commas on either end) will be interpreted as part of 
 #the data and included in the output file.
 #
-#Written in 2019 by Jonathan W Brase 
+##Written in 2019 by Jonathan W Brase 
 #e-mail: jNoOnS.PbArMaNsOeS@PgAmMaNiOlS.PcAoMm
 #Remove capitalized letters of "NOSPAM" for valid e-mail address
 #The CC0 Public Domain Dedication has been applied to this script. 
-#See <http://creativecommons.org/publicdomain/zero/1.0/>. To the extent possible
-#under law, the author(s) have dedicated all copyright and related and
-#neighboring rights to this script to the public domain worldwide. This script 
-#is distributed without any warranty.
+#To the extent possible under law, the author(s) have dedicated all copyright 
+#and related and neighboring rights to this script to the public domain worldwide. 
+#This script is distributed without any warranty. If you obtained this script
+#from github the text of the CC0 license can be found at the end of the "COPYING"
+#file in root directory of the repository. If not, see 
+#<http://creativecommons.org/publicdomain/zero/1.0/>.
 
 use strict;
 use warnings;
