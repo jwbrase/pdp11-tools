@@ -15,5 +15,13 @@ example usage:
 
 abstapewrite.pl ../example-input/nankervis_bootloader.link ../example-output/nankervis_bootloader.ptape 140000
 
+3) getsel.pl is a replacement for getsel.sh in Oscar Vermeulen's PiDP-11 software distribution. On boot, or when the address knob is pressed with the enable/halt switch in the "enable" position, simh is started, and a directory containing the disk images and configuration file for simh to use is selected based on the value toggled in on the front panel switches. getsel.sh is used to translate the switch value into a directory name. I was encountering an issue where switch register values of the form 0[1-9]xx were not being translated correctly, but Oscar was unable to reproduce the issue on his PiDP-11s. getsel.pl is a short Perl script that I wrote to provide the same functionality as getsel.sh, which works on my PiDP. It is meant to be called from /opt/pidp11/bin/pidp11.sh from the line beginning with $sel=... . The first argument should be the $lo variable that contains the low 18 bits of the switch register value, the second should be the default system name to use if no line in /opt/pidp11/systems/selections matches the switch register value.
+
+Example usage:
+
+replace the line in pidp11.sh beginning with "sel=" with:
+
+sel = `./getsel.pl $lo idled`
+
 
 Jon Brase, 2019
