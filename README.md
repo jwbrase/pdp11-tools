@@ -1,6 +1,8 @@
 # pdp11-tools
 This repository contains tools I have written for working with pdp11 software on modern systems, particularly for use with Oscar Vermeulen's PiDP-11 project. See https://obsolescence.wixsite.com/obsolescence/pidp-11 .
 
+There is also a "howtos" directory with information on setting up various software on legacy PDP-11 operating systems, at present, this is limited to setting up UUCP on v7 Unix, but others are being worked on.
+
 The tools currently available are in the scripts directory:
 
 1) inverse-od.pl performs an inverse octal dump, taking an input file text file containing comma-or-newline separated words of octal digits and spitting out a binary file containing those words as 16-bit little-endian integers (it will also deal with binary, decimal, and hexadecimal data, because perl makes doing that easy, but dumps for the PDP-11 are likely to be octal).
