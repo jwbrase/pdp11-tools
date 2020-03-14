@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:creation-date>2019-05-20T15:52:13.332635302</meta:creation-date><dc:date>2019-05-20T17:05:49.065992164</dc:date><meta:editing-duration>PT10M4S</meta:editing-duration><meta:editing-cycles>2</meta:editing-cycles><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:document-statistic meta:character-count="25621" meta:image-count="0" meta:non-whitespace-character-count="21022" meta:object-count="0" meta:page-count="17" meta:paragraph-count="377" meta:table-count="0" meta:word-count="4664"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">27905</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">13065</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">5158</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">2501</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">27903</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">13063</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">180</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">871220</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1417621</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="FreeSans1" svg:font-family="FreeSans" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="AR PL SungtiL GB" svg:font-family="&apos;AR PL SungtiL GB&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="FreeSans" svg:font-family="FreeSans" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="AR PL SungtiL GB" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="AR PL SungtiL GB" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="AR PL SungtiL GB" style:font-family-asian="&apos;AR PL SungtiL GB&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="FreeSans" style:font-family-complex="FreeSans" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" loext:contextual-spacing="false" fo:line-height="120%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="FreeSans1" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="FreeSans1" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="FreeSans1" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Horizontal_20_Line" style:display-name="Horizontal Line" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="html">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.1965in" loext:contextual-spacing="false" style:border-line-width-bottom="0in 0.0016in 0.0008in" fo:padding="0in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.14pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
+   <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.3in" fo:text-indent="-0.3in" fo:margin-left="0.3in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.4in" fo:text-indent="-0.4in" fo:margin-left="0.4in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.5in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.6in" fo:text-indent="-0.6in" fo:margin-left="0.6in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.7in" fo:text-indent="-0.7in" fo:margin-left="0.7in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.8in" fo:text-indent="-0.8in" fo:margin-left="0.8in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.9in" fo:text-indent="-0.9in" fo:margin-left="0.9in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-1in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.1in" fo:text-indent="-1.1in" fo:margin-left="1.1in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.2in" fo:text-indent="-1.2in" fo:margin-left="1.2in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="000d4b34" officeooo:paragraph-rsid="000d4b34"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="000d4b34" officeooo:paragraph-rsid="000e640d"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="000d4b34" officeooo:paragraph-rsid="000f7aef"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="000d4b34" officeooo:paragraph-rsid="000f7aef"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="000d4b34" officeooo:paragraph-rsid="0012aae5"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="000d4b34" officeooo:paragraph-rsid="0013c1c5"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="000e640d" officeooo:paragraph-rsid="000e640d" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="0010df5d" officeooo:paragraph-rsid="0010df5d" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="0012aae5" officeooo:paragraph-rsid="0012aae5" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="14pt" fo:font-weight="bold" officeooo:rsid="000d4b34" officeooo:paragraph-rsid="000d4b34" style:font-size-asian="12.25pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="000d4b34" officeooo:paragraph-rsid="000d4b34" style:font-size-asian="10.5pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Courier New" officeooo:rsid="000d4b34" officeooo:paragraph-rsid="000d4b34"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="000d4b34" officeooo:paragraph-rsid="000f7aef"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="000d4b34" officeooo:paragraph-rsid="000d4b34"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Courier New" officeooo:rsid="000d4b34" officeooo:paragraph-rsid="000d4b34"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Courier New" officeooo:rsid="000d4b34" officeooo:paragraph-rsid="0013c1c5"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties officeooo:rsid="000e640d"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="000e640d" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="000f7aef" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="0010df5d" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties officeooo:rsid="000f7aef"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="000f7aef" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties officeooo:rsid="0012aae5"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties style:font-name="Courier New"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in">
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+   </text:sequence-decls>
+   <text:p text:style-name="P10">Setting up UUCP for v7 Unix</text:p>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P11">1. Getting started with v7 Unix</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">I&apos;ll start with some preliminaries for those unfamiliar with the system. Start by logging in as root, password root.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">If this is your first time logging in and you are not familiar with Unix/Linux, now is a good time to make the system yours by changing the root password.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">At the # prompt, type “passwd”.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">On login, the system will notify you that you have mail. <text:s/>You can read this by typing &quot;mail&quot;, and delete it by pressing &quot;d&quot; at the “?” prompt, so that it doesn’t bug you on future logins.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">The mail tells you that you have secret mail. v7 Unix has a &quot;secret mail&quot; facility that didn&apos;t survive in modern Unixes. You can read the secret mail message with xget, send one with xsend (not that that&apos;s really relevant to modern use cases for v7 Unix), and change your password for the secret mail system with enroll.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P7">2. Recompiling the kernel</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Now let’s get down to business with setting up UUCP. The first thing we need to do is recompile the kernel to be able to use the DZ11 terminal multiplexer simulated by simh. The DC11 lines included in the default boot.ini for v7 aren&apos;t 8-bit clean, so they&apos;ll do nasty things like mangling the high bit of characters and dropping control characters. Because the UUCP implementation for <text:s/>v7 Unix (which confusingly enough, is called &quot;version 2 UUCP&quot;) doesn&apos;t support any of the protocols that were later developed for lines that weren&apos;t 8-bit clean, this will prevent UUCP on v7 from talking to Taylor UUCP on the Pi.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Figuring out that the DZ11 was needed consumed a good chunk of the time I spent working on this.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">I used http://www.ljosa.com/~ljosa/v7-dz11 as a guide for setting up the dz11, however, some of his instructions assume a bit more knowledge of v7 Unix than even a fairly seasoned veteran of modern Linux is likely to have, let alone anyone who has come from Windows or DEC OSes, so I will go over them in detail.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Things you should type will be indented by one tab from the rest of my instructions and will include the prompt character (if any) provided by the Unix shell or by the program you are running. If there is a large amount for you to copy in, it will be between horizontal lines:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:p text:style-name="P12">like this.</text:p>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">First, we set the time. The compile scripts check file timestamps against the current date to determine what has been modified and needs to be recompiled. As it doesn&apos;t have any real time clock, or an <text:soft-page-break/>internet connection <text:span text:style-name="T1">with</text:span> ntp, the system boots up with the date set to sometime around the Unix epoch (Jan 1st 1970), and all the files on the system are from the late 1970s (in the future as far as the system</text:p>
+   <text:p text:style-name="P1">is concerned). </text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Unfortunately, while v7 Unix itself is Y2K compliant, its program for *setting* the date isn&apos;t, and only takes 2-digit years. So set the time to sometime after 1980, but well before 2000, so that it doesn&apos;t roll over to 2000, causing files to be created with timestamps that are later than any date we can set the system date to. So our first command is:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10"># date yymmddhhmm</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">or, optionally:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10"># date yymmddhhmm.ss</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Next, move to the configuration directory for the kernel sources:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10"># cd /usr/sys/conf</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/></text:p>
+   <text:p text:style-name="P1">Now, remove all the *.o files in that directory, as well as the program mkconf, which needs to be rebuilt, to make sure we get a fresh mkconf executable and rather than using the old one.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10"># rm *.o</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Now, open up the file mkconf.c in v7&apos;s text editor, ed:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10"># ed mkconf.c</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/></text:p>
+   <text:p text:style-name="P1">When you load or save a file, ed will print the number of characters in the file. Ed does not print a prompt, but it will print a ? if it doesn&apos;t understand your input. This can happen if you accidentally bump an arrow key, which sends control characters that modern systems interpret as cursor movement commands, but that v7 Unix interprets as part of your command. On modern systems, when you accidentally send a control sequence to a program that doesn&apos;t understand it, you usually get something back that looks like ^]]A, but v7 Unix doesn&apos;t send anything back in this scenario, so you can get a random &quot;command not found&quot; from what looks like a validly typed command if you bump a key that sends control characters, like ESC, or an arrow key.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P2">Now, on whatever computer you&apos;re logged into the Pi from, download the file</text:p>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P2"><text:s/><text:tab/><text:a xlink:type="simple" xlink:href="http://www.ljosa.com/~ljosa/mkconf.c.ed" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://www.ljosa.com/~ljosa/mkconf.c.ed</text:a></text:p>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P2">or copy the script between the lines <text:span text:style-name="T1">below</text:span>. This is the set of commands that will cause ed to add the code we need to mkconf.c. You can just paste this into your terminal and hit &quot;enter&quot; to submit the last command. The write-up at ljosa.com warns:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">&quot;If you transfer the patch to your PDP-11 using cut and paste in an xterm or some similar method, verify that tab characters have not been translated into spaces. Mkconf generates the assembly file l.s, and the assembler distinguises between tabs and spaces.&quot;</text:p>
+   <text:p text:style-name="P1"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P1">This was not a problem for me, but double check. There are some spaces in the file, and some tabs. Make sure none of them have been converted to the other type of whitespace. You can exit ed without saving by pressing &quot;q&quot; (for <text:span text:style-name="T3">Q</text:span>uit) on a new line if you run into this issue.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">If everything copies in fine, type:</text:p>
+   <text:p text:style-name="P1"><text:tab/></text:p>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">w</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/></text:p>
+   <text:p text:style-name="P1">to save (<text:span text:style-name="T3">W</text:span>rite) the file, and:</text:p>
+   <text:p text:style-name="P1"><text:tab/></text:p>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">q</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">to quit.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">In the script below &quot;249a&quot; means &quot;<text:span text:style-name="T3">A</text:span>ppend the following text after line 249&quot; (likewise for 45 a), and a dot on a line by itself means &quot;stop adding text&quot;.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">The rest of the script is text to be added.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:p text:style-name="P12">249a</text:p>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"><text:s text:c="8"/>&quot;dz&quot;,</text:p>
+   <text:p text:style-name="P12"><text:s text:c="8"/>0, 300, CHAR+INTR,</text:p>
+   <text:p text:style-name="P12"><text:tab/>&quot;<text:tab/>dzin; br5+%d.\n<text:tab/>dzou; br5+%d.&quot;,</text:p>
+   <text:p text:style-name="P12"><text:s text:c="8"/>&quot;.globl _dzrint\ndzin: <text:s/>jsr <text:s text:c="4"/>r0,call; jmp _dzrint\n&quot;,</text:p>
+   <text:p text:style-name="P12"><text:tab/>&quot;.globl<text:tab/>_dzxint\ndzou:<text:tab/>jsr<text:tab/>r0,call; jmp _dzxint\n&quot;,</text:p>
+   <text:p text:style-name="P12"><text:tab/>&quot;&quot;,</text:p>
+   <text:p text:style-name="P12"><text:s text:c="8"/>&quot; <text:s text:c="6"/>dzopen, dzclose, dzread, dzwrite, dzioctl, nulldev, dz_tty,&quot;,</text:p>
+   <text:p text:style-name="P12"><text:tab/>&quot;&quot;,</text:p>
+   <text:p text:style-name="P12"><text:s text:c="8"/>&quot;int <text:s text:c="3"/>dzopen(), dzclose(), dzread(), dzwrite(), dzioctl();\nstruct<text:tab/>tty<text:tab/>dz_tty[];&quot;,</text:p>
+   <text:p text:style-name="P12">.</text:p>
+   <text:p text:style-name="P12">45a</text:p>
+   <text:p text:style-name="P12"><text:tab/>&quot;dz&quot;,</text:p>
+   <text:p text:style-name="P12">.</text:p>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">The next step is to rebuild mkconf</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10"># cc mkconf.c -o mkconf</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P3">Now, we need to create a new configuration file for the kernel. Copy &quot;myconf&quot; (*not* mkconf! There&apos;s only one letter of difference between the two!) which was used to create the kernel we&apos;re currently running, to a new file. </text:p>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P3">You can call this whatever you want, but so that you know what its for if you come across it later, it should end in &quot;conf&quot;. I used the name I chose for my v7 system to use over UUCP, &quot;anduin&quot;:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10"># cp myconf anduinconf</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Modern practice would probably be to end the filename in .conf, but the rest of the conf files in this directory don&apos;t have a dot, so I&apos;ll stick with that convention, not that it matters.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Now edit your new configuration file:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10"># ed anduinconf</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">The command n,mp will <text:span text:style-name="T4">P</text:span>rint lines n through m in the file. $ means the last line, so 1,$p will print the whole file. Do that so that you can see the whole file. <text:tab/></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">1,$p</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">The output will look like this:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">hp</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>root hp 0</text:p>
+   <text:p text:style-name="P12"><text:tab/>swap hp 1</text:p>
+   <text:p text:style-name="P12"><text:tab/>swplo 0</text:p>
+   <text:p text:style-name="P12"><text:tab/>nswap 8778</text:p>
+   <text:p text:style-name="P12"><text:tab/>tm</text:p>
+   <text:p text:style-name="P12"><text:tab/>4dc</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">When setting this up, I found that the configuration mkconf reported generating seemed to have the DC11 and DZ11 lines configured in a way that caused them to interfere, which caused the kernel to crash. /Enclosing text between two slashes/ causes ed to search for it and go to that line. Search for the line /4dc/, and <text:span text:style-name="T4">D</text:span>elete it.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">/4dc/</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>d</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">You can even do this as one command line if you want:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">/4dc/d</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P14"><text:span text:style-name="T2">A</text:span>ppend the following to the file, and print the file again to make sure everything looks correct.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">a</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>dz</text:p>
+   <text:p text:style-name="P12"><text:tab/>pack</text:p>
+   <text:p text:style-name="P12"><text:tab/>.</text:p>
+   <text:p text:style-name="P12"><text:tab/>1,$p</text:p>
+   <text:p text:style-name="P1"><text:tab/></text:p>
+   <text:p text:style-name="P1">You should get the following output:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">hp</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>root hp 0</text:p>
+   <text:p text:style-name="P12"><text:tab/>swap hp 1</text:p>
+   <text:p text:style-name="P12"><text:tab/>swplo 0</text:p>
+   <text:p text:style-name="P12"><text:tab/>nswap 8778</text:p>
+   <text:p text:style-name="P12"><text:tab/>tm</text:p>
+   <text:p text:style-name="P12"><text:tab/>dz</text:p>
+   <text:p text:style-name="P12"><text:tab/>pack</text:p>
+   <text:p text:style-name="P1"><text:tab/></text:p>
+   <text:p text:style-name="P1">pack adds the packet driver, which I&apos;m not sure is needed, but the UUCP documentation</text:p>
+   <text:p text:style-name="P1">(see http://a.papnet.eu/UNIX/v7/files/doc/36_uucpimp.pdf) mentions it and says that certain things need to be done if it&apos;s not present, so I figured it was better safe than sorry to include it. &quot;dz&quot; adds support for the DZ11.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">As long as everything looks as shown above, save and exit:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">w</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>q</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Now we need to run mkconf. Similar programs on modern Unices generally take a filename as an argument, but mkconf just reads from standard input, so the syntax to read in our configuration file is a bit different than usual:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10"># mkconf &lt; anduinconf</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">You should get the following back:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">console at 60</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>clock at 100</text:p>
+   <text:p text:style-name="P12"><text:tab/>clock at 104</text:p>
+   <text:p text:style-name="P12"><text:tab/>parity at 114</text:p>
+   <text:p text:style-name="P12"><text:tab/>tm at 224</text:p>
+   <text:p text:style-name="P12"><text:tab/>hp at 254</text:p>
+   <text:p text:style-name="P12"><text:tab/>dz at 300</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Now we can rebuild the kernel. I use &quot;make all&quot; in addition to &quot;make unix&quot; here to be safe, as I don&apos;t know what&apos;s already built on the image we start with, but on subsequent invocations (if you ever feel the need to rebuild the kernel again), you should be able to<text:tab/>just type &quot;make unix&quot;. For those used to <text:soft-page-break/>modern conventions for writing makefiles, note that &quot;make all&quot; does not really build everything, you still have to type &quot;make unix&quot; afterwards.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10"># make all</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/># make unix</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Now there will be a file called &quot;unix&quot; in /usr/sys/conf. This is the kernel.</text:p>
+   <text:p text:style-name="P1">Copy it to the root directory <text:span text:style-name="T8">u</text:span><text:span text:style-name="T7">nder a new name</text:span>. I&apos;ve tested this configuration, so I&apos;m quite certain it will work, but don&apos;t believe me: it&apos;s best practice on any operating system not to delete your old kernel before you&apos;ve tested that the new one works. If you overwrite the old kernel before testing the new one, the system will be unbootable.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">#cp unix /anduinunix</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/></text:p>
+   <text:p text:style-name="P1">Note the leading slash on the new name. If you don&apos;t include it, it will go to the current directory instead of the root directory, and the bootloader won&apos;t find the kernel when you try to boot it.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Now, as long as you&apos;re logged in from the console, and not any of the DC11 lines, remove the device files for the DC11s. This will render those lines inoperable, but we&apos;ll be replacing them with the DZ11s, and the device files will need to be set up a bit differently for the DZ11s.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">#rm /dev/tty00</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>#rm /dev/tty01</text:p>
+   <text:p text:style-name="P12"><text:tab/>#rm /dev/tty02</text:p>
+   <text:p text:style-name="P12"><text:tab/>#rm /dev/tty03</text:p>
+   <text:p text:style-name="P1"><text:tab/></text:p>
+   <text:p text:style-name="P3">You could type &quot;rm /dev/tty0*&quot; here to do it all in one command, but <text:span text:style-name="T2">be careful</text:span>, you don&apos;t want to accidentally remove /dev/tty, which is the device file that each individual program sees as its own terminal. </text:p>
+   <text:p text:style-name="P4">Whatever you do: <text:span text:style-name="T2">DO NOT</text:span> type &quot;rm /dev/tty*&quot;.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Now, open c.c in ed</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">#ed c.c</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Type /dz/ 3 times to go to the 3rd line containing the string /dz/</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">/dz/</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">/dz/</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>/dz/</text:p>
+   <text:p text:style-name="P14"><text:tab/></text:p>
+   <text:p text:style-name="P1">The third time you type /dz/, ed should print this line:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">dzopen, dzclose, dzread, dzwrite, dzioctl, nulldev, dz_tty, <text:s text:c="5"/>/* dz = 19 */</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Make note of the number in the comment at the end of the line (in my case it&apos;s <text:span text:style-name="T10">/* dz = 19 */</text:span><text:span text:style-name="T6">)</text:span>. You&apos;ll need this number. When we recreate the /dev/tty0x files, this is what will tell the operating system which terminal driver to use for the device file.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">We&apos;re not changing anything, so leave ed without saving.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">q</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Now we <text:span text:style-name="T6">(re)</text:span>create the device files. Change to the /dev directory:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10"># cd /dev</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/></text:p>
+   <text:p text:style-name="P1">We apparently need to tell simh to give us 16 dz lines in boot.ini for our new kernel not to crash. However, we don&apos;t need to have device files for all of them, and we&apos;ll need to do a lot of typing for 16 lines. Be aware, however, that any lines that you don&apos;t set up will not respond if you telnet into them. If you set 16 up, you may want to type one instance of the mknod command below, copy and paste it to the number of required lines, then edit the lines to have the required numbers, and paste the whole thing into your terminal when you&apos;re done.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">First of all, because /etc is not in your path, and the mknod command is located in /etc, add /etc to your path to save typing:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">#PATH=$PATH:/etc</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">The command &quot;mknod filename c n m&quot; tells the system to create a <text:span text:style-name="T5">C</text:span>haracter device file called &quot;filename&quot; with major number (device type) n, and minor number (the id for that specific device) m. So &quot;mknod /dev/tty00 c 19 0&quot; means &quot;Create a character device of type 19, unit number 0&quot;.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Type one mknod line for every DZ11 line you want to use. Use the major number that <text:span text:style-name="T2">you</text:span> found in c.c, not the &quot;19&quot; that I have here (though your number may well <text:s/>be 19):</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10"># mknod /dev/tty00 c 19 0</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/># mknod /dev/tty01 c 19 1</text:p>
+   <text:p text:style-name="P12"><text:tab/># mknod /dev/tty02 c 19 2</text:p>
+   <text:p text:style-name="P12"><text:tab/>...</text:p>
+   <text:p text:style-name="P14"/>
+   <text:p text:style-name="P1">Now open up the file /etc/ttys in ed. This file tells the system which devices it should run login prompts on, what speeds they should use, etc.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T10"># ed /etc/ttys</text:span></text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P6">Display the whole file to get an idea of what it looks like.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">1,$p</text:span></text:p>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P1">You should see something like this:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">14console</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>10tty00</text:p>
+   <text:p text:style-name="P12"><text:tab/>10tty01</text:p>
+   <text:p text:style-name="P12"><text:tab/>10tty02</text:p>
+   <text:p text:style-name="P12"><text:tab/>10tty03</text:p>
+   <text:p text:style-name="P12"><text:tab/>00tty04</text:p>
+   <text:p text:style-name="P12"><text:tab/>00tty05</text:p>
+   <text:p text:style-name="P12"><text:tab/>00tty06</text:p>
+   <text:p text:style-name="P12"><text:tab/>00tty07</text:p>
+   <text:p text:style-name="P12"><text:tab/>...</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Leave the console line as it is.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Change the first four lines, which are already set up for the DC11, as shown. The first character is either &quot;1&quot; to indicate that a login prompt should be sent on that line, or &quot;0&quot; to indicate that no logins should be accepted on that line. The second tells the system what types of modems and terminals to expect on that line.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">The following command is a <text:span text:style-name="T2">S</text:span>ubtitution command. 2,5 means to act on lines 2 through 5. Within those lines, ed will replace all instances of &quot;10&quot; with &quot;12&quot;. The &quot;p&quot; at the end causes the last line acted on to be printed once the substitution has been performed.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">2,5s/10/12/p</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">For the rest of the lines we&apos;ve added, the system isn&apos;t yet configured to allow logons, so we need to add a one in the leading digit.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">6,17s/00/12/p</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">For now, I will not be considering the case of having UUCP dial out to other systems from v7, only to accept calls from other systems, as I do not at the moment have serial set up on my PiDP, and simh can only accept logins over telnet, not call out (though I can imagine a setup where you had a program that telnetted in to <text:s/>simh when it started up and then waited for the emulated system to send &quot;dialing&quot;</text:p>
+   <text:p text:style-name="P1">commands, wherupon it would telnet or ssh to another system).</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:soft-page-break/>If you have a serial line connected to another system on your PiDP, or otherwise want to look into configuring UUCP for dialout yourself, you may want to leave a few lines free (with no login process running). In that case, instead of the &quot;6,17s... &quot; line above, you might want:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">6,15s/00/12/p</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>16,17s/00/02/p</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">The file contains lines for ttys up to tty32, but since we&apos;ll only be adding 16 DZ lines to our simh configuration, leave everything after tty15 as-is.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Now ask ed to print the file to make sure everything looks ok</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">1,$p</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/></text:p>
+   <text:p text:style-name="P1">You should get something like this:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">14console</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>12tty00</text:p>
+   <text:p text:style-name="P12"><text:tab/>12tty01</text:p>
+   <text:p text:style-name="P12"><text:tab/>12tty02</text:p>
+   <text:p text:style-name="P12"><text:tab/>...</text:p>
+   <text:p text:style-name="P12"><text:tab/></text:p>
+   <text:p text:style-name="P12"><text:tab/>...</text:p>
+   <text:p text:style-name="P12"><text:tab/>12tty14</text:p>
+   <text:p text:style-name="P12"><text:tab/>12tty15</text:p>
+   <text:p text:style-name="P12"><text:tab/>00tty16</text:p>
+   <text:p text:style-name="P12"><text:tab/>00tty17</text:p>
+   <text:p text:style-name="P12"><text:tab/>00tty18</text:p>
+   <text:p text:style-name="P12"><text:tab/>...</text:p>
+   <text:p text:style-name="P12"><text:tab/></text:p>
+   <text:p text:style-name="P12"><text:tab/>...</text:p>
+   <text:p text:style-name="P12"><text:tab/>00tty32</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">If everything looks good, save and exit</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">w</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>q</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Now it&apos;s time to boot with the new kernel.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">First, bring down the system to single-user mode. This was more critical in the old days than it is running today on a PiDP, as you probably won&apos;t have a lot of users logged in who might decide to save a file at any moment while you&apos;re trying to shut down, but better safe than sorry.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10"># kill -1 1</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/></text:p>
+   <text:p text:style-name="P1">This sends signal 1 &quot;hangup&quot; to process 1, which is &quot;init&quot;, the first userpace program that the kernel starts at startup, which manages the rest of the system. On modern Unices, sending SIGHUP to init <text:soft-page-break/>causes it to reload its configuration, not to go to single user mode, and what signal numbers do what has changed, but &quot;kill&quot; largerly works the same way.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Now that we&apos;re in single user mode and are sure that some random user (or automated background process) won&apos;t do something that writes to the disk while we&apos;re trying to shut down, we can flush pending writes to disk. Best practice, in the days before newfangled programs like &quot;shutdown&quot; that bring the system down automatically on modern systems, was to do this three times for paranoia&apos;s sake.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10"># sync</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/># sync</text:p>
+   <text:p text:style-name="P12"><text:tab/># sync</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Then hit &quot;CTRL-E&quot; (or flip the Enable/Halt switch to &quot;halt&quot;, if you&apos;re in reach of the panel) to stop the processor.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Now copy the boot.ini file for Unix7 on the pi to boot.ini.bak, and open up boot.ini in your prefered modern editor.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Take 5 minutes to write a post to <text:s/>comp.editors flaming all the other editors that are CLEARLY INFERIOR to your prefered editor (because our end goal is to set up UUCP, the protocol that USENET ran on, and what would USENET be without holy wars over text editors?).</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">*cough* emacs^H^H^H^H^H vim^H^H^H C-x M-c M-butterfly *cough*</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Then delete your post, and breathe a huge sigh of relief, because whatever side you take in the holy wars, at least you don&apos;t have to use ed for this :-)</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">NB - ed is part of the POSIX standard, so you generally will find it on modern Unices, such as Raspbian. So the masochistic can use it if they want to.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">So, back to editing boot.ini:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Delete the lines:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">set dci en</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>set dci lines=8</text:p>
+   <text:p text:style-name="P1"><text:tab/></text:p>
+   <text:p text:style-name="P1">And add the following lines:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">set dz lines=16</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>att dz -m 4107</text:p>
+   <text:p text:style-name="P12"><text:tab/>set dz 8b</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">4107 can be replaced with whatever port you prefer for telnet. I&apos;m tryng to keep distinct telnet ports for different emulated systems.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">lines=16 and the -m option have to be there, according to the ljosa.com writeup. 8b is to make sure we&apos;re 8-bit clean.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:soft-page-break/>Now save the file.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">You&apos;re now ready to boot v7 again.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">When you get to the boot prompt, type:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">boot</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">as directed, but instead of:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">: hp(0,0)unix</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">type</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">: hp(0,0)anduinunix</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Replacing &quot;anduinunix&quot; with whatever name you used for the new kernel.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">When it boots to the # prompt, hit Ctrl-D to exit single user mode and boot to multi-user. If all goes well, you&apos;ll get a login prompt. If there&apos;s something wrong with your kernel, this is where it will probably panic (since we&apos;ve been messing with terminals, and booting to multi-user is where other terminals beyond the console are brought up. If that happens, you can replace boot.ini with boot.ini.bak</text:p>
+   <text:p text:style-name="P1">and use hp(0,0)unix at the boot prompt to boot into a working system.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Now test the DZ11 lines by logging in to the appropriate telnet port. You&apos;ll get some garbage characters for the login prompt, but if you hit enter you&apos;ll get a clear prompt.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">If everything is working at this point, we&apos;re ready to start working on UUCP proper.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P8">3. <text:span text:style-name="T9">The v7 end of UUCP</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Our resource for this section is the Uucp implementation guide, which can be found at http://a.papnet.eu/UNIX/v7/files/doc/36_uucpimp.pdf</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Login and change directory to /usr/src/cmd/uucp:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10"># cd /usr/src/cmd/uucp</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Section 8 of the installation guide, &quot;Uucp Installation&quot; tells us that we will want to configure several directories, as well as the system name (Unix v7 didn&apos;t have TCP/IP, so it didn&apos;t have a hostname, as such, so UUCP needed to be told what system name to use, as there wasn&apos;t a system-wide name for it to default to).</text:p>
+   <text:p text:style-name="P14"/>
+   <text:p text:style-name="P1">We&apos;ll leave the directory names at their defaults. To edit the system name, open uucp.h with ed (unfortunately, it&apos;s compiled in, not in a config file):</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10"># ed uucp.h</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Search for &quot;MYNAME&quot;:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">/MYNAME/</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">ed will print:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">#define MYNAME <text:s text:c="9"/>&quot;myname&quot;</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">now we can change &quot;myname&quot; to our chosen system name:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">s/myname/anduin/p</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Please note here that Version 2 UUCP on v7 Unix only accepts 7 character system names. This applies to both this system, and to any system that communicates with it. Fortunately, Taylor UUCP, which we will be using on the Pi, is flexible enough to be able to use a system name different from its normal one when logging in to specific systems, so we aren&apos;t restricted to a seven character hostname for the pi</text:p>
+   <text:p text:style-name="P1">itself, just for the name it passes to this system over UUCP. As the PiDP community gains experience with UUCP, we may want to try changing this, or seeing if we can compile HDB UUCP (the version used on, for example, 2.11 BSD) on v7 Unix.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">But for now, just save and exit:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">w</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>q</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">The next step is to build UUCP:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">#make</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>#make cp</text:p>
+   <text:p text:style-name="P1"><text:tab/></text:p>
+   <text:p text:style-name="P1">make cp will copy the binaries to their final location.</text:p>
+   <text:p text:style-name="P14"/>
+   <text:p text:style-name="P1">Make the spool directory and execute directories for UUCP, as well as a public directory. According to the implementation guide, these should have global read, write, and execute permissions set. I&apos;m not sure that fits with later best practice, but I&apos;m also not sure that the structure of this early implementation of UUCP allows for anything else. Perhaps that&apos;s a reason to try to get HDB UUCP running on v7.</text:p>
+   <text:p text:style-name="P1"><text:tab/></text:p>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10"># mkdir /usr/spool/uucp</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/># mkdir /usr/spool/uucp/.XQTDIR</text:p>
+   <text:p text:style-name="P12"><text:tab/># mkdir /usr/spool/uucp/public</text:p>
+   <text:p text:style-name="P12"><text:tab/># chown uucp /usr/spool/uucp</text:p>
+   <text:p text:style-name="P12"><text:tab/># chown uucp /usr/spool/uucp/.XQTDIR</text:p>
+   <text:p text:style-name="P12"><text:tab/># chown uucp /usr/spool/uucp/public</text:p>
+   <text:p text:style-name="P12"><text:tab/># chmod a+rwx /usr/spool/uucp</text:p>
+   <text:p text:style-name="P12"><text:tab/># chmod a+rwx /usr/spool/uucp/.XQTDIR</text:p>
+   <text:p text:style-name="P12"><text:tab/># chmod a+rwx /usr/spool/uucp/public</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Now it&apos;s time to edit our configuration files, starting with /usr/lib/uucp/USERFILE:</text:p>
+   <text:p text:style-name="P1"><text:tab/></text:p>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10"># cd /usr/lib/uucp</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/># ed USERFILE</text:p>
+   <text:p text:style-name="P12"><text:tab/>1,$p</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">This will show that USERFILE contains one line,</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">, /</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">This will allow any machine, logging in as any user, to write to any directory that user would normally have permissions to access. This is not secure, so we&apos;ll delete that line.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">1,$d</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Now append the following text:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">a</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>root, /</text:p>
+   <text:p text:style-name="P12"><text:tab/>, /usr/spool/uucp/public</text:p>
+   <text:p text:style-name="P12"><text:tab/>pi-login,piname /directories /of /your /choice</text:p>
+   <text:p text:style-name="P12"><text:tab/>.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P5">Now any machine logging in as root can access any file on the system, any machine logging in as any user can access /usr/spool/uucp/public, and the Rapberry Pi, logging in under a username we will create specifically for it, can access whatever directories we choose to give it access to. </text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P5">Remember that the system name that the pi passes to this system must be 7 characters or less, but it does not have to be the pi&apos;s hostname (though that is the default). We can configure Taylor UUCP to</text:p>
+   <text:p text:style-name="P1">pass any system name we choose here for the pi. Remember the username and system name you use here. That username will have to be added to /etc/passwd on this system, and the system name will be used in a configuration file for Taylor UUCP. If the pi&apos;s hostname is less than 7 characters, we can just use that.</text:p>
+   <text:p text:style-name="P1"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P1">Save and exit:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">w</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>q</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Even though we won&apos;t be calling out, we need an entry in L.sys for the pi, so that UUCP knows that the pi exists and might call in to request any files we have waiting for it.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10"># ed L.sys</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">delete the last line, which is an example line:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">$d</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Now add an entry for the pi:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">a</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>piname None ACU 300 555-5555 &quot;&quot; &quot;&quot;</text:p>
+   <text:p text:style-name="P12"><text:tab/>.</text:p>
+   <text:p text:style-name="P1"><text:tab/></text:p>
+   <text:p text:style-name="P1">This tells UUCP that a system called &quot;piname&quot; exists, that we never call out to it, that if we did call out to it we&apos;d use the ACU device at 300 baud, we&apos;d call phone number 555-5555, and that to log in we wouldn&apos;t do anything (that is, we wouldn&apos;t log in).</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Save and exit:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">w</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>q</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">There are several other files in this directory used for configuring dialout. We will not touch them for now.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Now we add the username for the pi to /etc/passwd, and make a correction for the existing &quot;uucp&quot; user.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">ed /etc/passwd</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>1,$s/\/uucico/\/uucp\/uucico/p</text:p>
+   <text:p text:style-name="P12"><text:tab/>a</text:p>
+   <text:p text:style-name="P12"><text:tab/>pi-login::5:5::/usr/spool/uucp:/usr/lib/uucp/uucico</text:p>
+   <text:p text:style-name="P12"><text:tab/>.</text:p>
+   <text:p text:style-name="P12"><text:tab/>1,$p</text:p>
+   <text:p text:style-name="P12"><text:tab/>w</text:p>
+   <text:p text:style-name="P12"><text:tab/>q</text:p>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:soft-page-break/>Now set the password for the username for the pi:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P12">passwd pi-login</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Remember this password, Taylor UUCP will need it.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">And that&apos;s it for setting up v7!</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P9">4. The pi end of UUCP</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Now we just need to set up Taylor UUCP on the Raspberry Pi. We begin with:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">$ sudo apt-get install uucp</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Fortunately, the spool and public directories are created automatically, so we don&apos;t have to worry about them. As root, open up /etc/uucp/sys in your text editor of choice. Leave the defaults at the top of the file in place.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P5">Add the following block of text:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">system v7name</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>myname piname</text:p>
+   <text:p text:style-name="P12"><text:tab/>time any n</text:p>
+   <text:p text:style-name="P12"><text:tab/>max-retries n</text:p>
+   <text:p text:style-name="P12"><text:tab/>call-login pi-login</text:p>
+   <text:p text:style-name="P12"><text:tab/>call-password pi-passwd</text:p>
+   <text:p text:style-name="P12"><text:tab/>port v7-dz</text:p>
+   <text:p text:style-name="P12"><text:tab/>address localhost</text:p>
+   <text:p text:style-name="P12"><text:tab/>chat &quot;&quot; \d\d\r ogin: \d\L word: \P</text:p>
+   <text:p text:style-name="P12"><text:tab/></text:p>
+   <text:p text:style-name="P12"><text:tab/>alternate v7name-2</text:p>
+   <text:p text:style-name="P12"><text:tab/>port v7-dc-pipe</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P5">The argument to &quot;system&quot; should be the name you gave to the V7 system when setting up UUCP. The argument to &quot;myname&quot; should be the same system name you set up for v7 above, and must be less than 7 characters. Call-login should use the same name you created in /etc/passwd on v7, and <text:s/>call-password should be the same password you set up with passwd in the last step of the v7 instructions. For &quot;time&quot;, the &quot;any&quot; keyword means that Taylor UUCP can call v7 at any time, and the number &quot;n&quot; is the number of minutes you want it to wait between attempts to call v7. It can be ommitted if you don&apos;t want to have a minimum wait time. For &quot;max retries&quot;, n is the number of times UUCP will try calling v7 before giving up until the next day.</text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P5">The chat script is made up of pairs of strings to expect, and the response to send</text:p>
+   <text:p text:style-name="P5">to those strings. So first, we expect nothing (that is, we immediately send the</text:p>
+   <text:p text:style-name="P5">&quot;respones&quot;), wait two seconds with \d\d, and then send a carriage return, \r.</text:p>
+   <text:p text:style-name="P5">When &quot;login&quot; on v7 sees the carriage return, it will reprint the login prompt.</text:p>
+   <text:p text:style-name="P5">We then wait for the string &quot;ogin:&quot; (in case we miss the first letter of &quot;login:&quot;), </text:p>
+   <text:p text:style-name="P5">wait one second, and send our login name with \L. We then wait for &quot;word:&quot;, and send</text:p>
+   <text:p text:style-name="P5">our password with \P.</text:p>
+   <text:p text:style-name="P5"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P5">The alternate name is just a name to identify an alternate means of calling the</text:p>
+   <text:p text:style-name="P5">v7 system.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Now edit /etc/uucp/port, and add the following two entries. v7-dz is the method we use to call the v7 system on the first attempt, <text:span text:style-name="T9">which is just to have uucico itself try to contact the v7 system over port 4107</text:span>, v7-dc-pipe is the alternate method we try if that doesn&apos;t work, which is to invoke telnet and use that to try to connect.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">port v7-dz</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>type tcp</text:p>
+   <text:p text:style-name="P12"><text:tab/>service 4107</text:p>
+   <text:p text:style-name="P12"><text:tab/></text:p>
+   <text:p text:style-name="P12"><text:tab/>port v7-dc-pipe</text:p>
+   <text:p text:style-name="P12"><text:tab/>type pipe</text:p>
+   <text:p text:style-name="P12"><text:tab/>command /usr/bin/telnet -8 4107</text:p>
+   <text:p text:style-name="P1"><text:tab/></text:p>
+   <text:p text:style-name="P1">Now, find a convenient file to try to send to the v7 system. Send it to the public directory on the v7 system:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">$ uucp filename anduin\!~/public</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">&quot;Anduin&quot; of course, should be replaced with the name you used for the v7 system. Note that the ! has to be escaped with a backslash, since ! has a meaning on many modern shells.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">This queues up the file for sending. Back in the day, our system would generally make scheduled callouts to the other system (or receive scheduled callins from the other system). The uucp program would queue work to be sent during the scheduled call. Since we&apos;re just transferring between two systems that we completely control (for now), setting up a scheduled call would be overkill, and also would force us to wait for the call. Instead, we&apos;ll just tell UUCP to call immediately.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">$ sudo uucico -s anduin</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">If all goes well, once uucico finishes executing, we should be able to find our file in /usr/spool/uucp/public on the v7 system. On the v7 system, type:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10"># ls /usr/spool/uucp/public</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">which should display:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">filename</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Now send it back. On the v7 system, type:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10"># uucp /usr/spool/uucp/public/foo.c piname!~/</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Note that since the v7 shell doesn&apos;t interpret ! in any special way, we don&apos;t need to</text:p>
+   <text:p text:style-name="P1">escape it here.</text:p>
+   <text:p text:style-name="P1"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P1">And then on the pi, type:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">$ sudo uucico -s anduin</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Once uucico is done, we should be able to list /var/spool/uucppublic, and see our file.</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T10">$ ls /var/spool/uucp/public</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">That&apos;s it! We&apos;ve set up UUCP.</text:p>
+  </office:text>
+ </office:body>
+</office:document>
