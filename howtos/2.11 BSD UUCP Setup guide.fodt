@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2020-03-04T15:56:12.208507663</meta:creation-date><dc:date>2020-03-14T01:55:37.754777482</dc:date><meta:editing-duration>PT1H25M56S</meta:editing-duration><meta:editing-cycles>4</meta:editing-cycles><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="5" meta:paragraph-count="96" meta:word-count="1423" meta:character-count="8020" meta:non-whitespace-character-count="6636"/></office:meta>
+ <office:meta><meta:creation-date>2020-03-04T15:56:12.208507663</meta:creation-date><dc:date>2020-06-24T01:36:41.595534874</dc:date><meta:editing-duration>PT2H1M40S</meta:editing-duration><meta:editing-cycles>7</meta:editing-cycles><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:document-statistic meta:character-count="9644" meta:image-count="0" meta:non-whitespace-character-count="7892" meta:object-count="0" meta:page-count="5" meta:paragraph-count="102" meta:table-count="0" meta:word-count="1733"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">55577</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">31394</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">14698</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">13982</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
@@ -16,9 +16,9 @@
      <config:config-item config:name="ViewLeft" config:type="long">6902</config:config-item>
      <config:config-item config:name="ViewTop" config:type="long">2501</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">55577</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">31392</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">70273</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">13981</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -92,7 +92,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">3548924</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">4132781</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -118,9 +118,7 @@
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <ooo:library-embedded ooo:name="Standard"/>
-   </ooo:libraries>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
@@ -235,130 +233,142 @@
    <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="001f2a60" officeooo:paragraph-rsid="001f2a60" style:font-size-asian="10.5pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="002153aa" officeooo:paragraph-rsid="002153aa" style:font-size-asian="10.5pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="0021d36d" officeooo:paragraph-rsid="0021d36d" style:font-size-asian="10.5pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="00234c97" officeooo:paragraph-rsid="00234c97" style:font-size-asian="10.5pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="00238e0d" officeooo:paragraph-rsid="00238e0d" style:font-size-asian="10.5pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="002496f8" officeooo:paragraph-rsid="002496f8" style:font-size-asian="10.5pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="0025f256" officeooo:paragraph-rsid="0025f256" style:font-size-asian="10.5pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="0026f894" officeooo:paragraph-rsid="0026f894" style:font-size-asian="10.5pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="0020764c" officeooo:paragraph-rsid="0020764c" style:font-size-asian="10.5pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="00320272" officeooo:paragraph-rsid="00320272" style:font-size-asian="10.5pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="002153aa" officeooo:paragraph-rsid="002153aa" style:font-size-asian="10.5pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="0021d36d" officeooo:paragraph-rsid="0021d36d" style:font-size-asian="10.5pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="00234c97" officeooo:paragraph-rsid="00234c97" style:font-size-asian="10.5pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="00238e0d" officeooo:paragraph-rsid="00238e0d" style:font-size-asian="10.5pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="002496f8" officeooo:paragraph-rsid="002496f8" style:font-size-asian="10.5pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="0025f256" officeooo:paragraph-rsid="0025f256" style:font-size-asian="10.5pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="0026f894" officeooo:paragraph-rsid="0026f894" style:font-size-asian="10.5pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="000d4b34" officeooo:paragraph-rsid="0026f894" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="000d4b34" officeooo:paragraph-rsid="00282ec4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="000d4b34" officeooo:paragraph-rsid="002bb42c" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="000d4b34" officeooo:paragraph-rsid="002d6195" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00294156" officeooo:paragraph-rsid="00294156" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002bb42c" officeooo:paragraph-rsid="002bb42c" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="normal" officeooo:rsid="001cef0f" officeooo:paragraph-rsid="001cef0f" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="normal" officeooo:rsid="0020764c" officeooo:paragraph-rsid="001f2a60" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="normal" officeooo:rsid="0020764c" officeooo:paragraph-rsid="0020764c" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="normal" officeooo:rsid="002153aa" officeooo:paragraph-rsid="002153aa" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="normal" officeooo:rsid="0021d36d" officeooo:paragraph-rsid="0021d36d" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="normal" officeooo:rsid="00234c97" officeooo:paragraph-rsid="0021d36d" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="normal" officeooo:rsid="00238e0d" officeooo:paragraph-rsid="00234c97" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="normal" officeooo:rsid="00238e0d" officeooo:paragraph-rsid="00238e0d" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="normal" officeooo:rsid="002e97a5" officeooo:paragraph-rsid="002e97a5" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="normal" officeooo:rsid="002496f8" officeooo:paragraph-rsid="00238e0d" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="normal" officeooo:rsid="002496f8" officeooo:paragraph-rsid="002496f8" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="normal" officeooo:rsid="0025f256" officeooo:paragraph-rsid="0025f256" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Courier New" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="000d4b34" officeooo:paragraph-rsid="0026f894" style:font-size-asian="10.5pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Courier New" fo:font-size="12pt" fo:font-weight="normal" officeooo:rsid="000d4b34" officeooo:paragraph-rsid="0021d36d" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Courier New" fo:font-size="12pt" fo:font-weight="normal" officeooo:rsid="000d4b34" officeooo:paragraph-rsid="00234c97" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Courier New" fo:font-size="12pt" fo:font-weight="normal" officeooo:rsid="000d4b34" officeooo:paragraph-rsid="002153aa" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Courier New" fo:font-size="12pt" fo:font-weight="normal" officeooo:rsid="000d4b34" officeooo:paragraph-rsid="00320272" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Courier New" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00282ec4" officeooo:paragraph-rsid="00294156" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Courier New" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="000d4b34" officeooo:paragraph-rsid="0026f894" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Courier New" officeooo:rsid="000d4b34" officeooo:paragraph-rsid="0026f894"/>
   </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Courier New" officeooo:rsid="000d4b34" officeooo:paragraph-rsid="00282ec4"/>
   </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="000d4b34" officeooo:paragraph-rsid="0026f894"/>
   </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="000d4b34" officeooo:paragraph-rsid="00282ec4"/>
   </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="000d4b34" officeooo:paragraph-rsid="002bb42c"/>
   </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="000d4b34" officeooo:paragraph-rsid="002d6195"/>
   </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0034287f" officeooo:paragraph-rsid="0036c124"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0034287f" officeooo:paragraph-rsid="003a2acf"/>
+  </style:style>
   <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="normal" officeooo:rsid="0024dc2f" officeooo:paragraph-rsid="0020764c" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
+   <style:text-properties officeooo:rsid="0037e2f4" officeooo:paragraph-rsid="0037e2f4"/>
   </style:style>
   <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-weight="normal" officeooo:rsid="00320272" officeooo:paragraph-rsid="00320272" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
+   <style:text-properties officeooo:rsid="0037e2f4" officeooo:paragraph-rsid="003a2acf"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="003b1ffc" officeooo:paragraph-rsid="003b1ffc"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0034e8a8" officeooo:paragraph-rsid="0036c124"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="003a2acf" officeooo:paragraph-rsid="003a2acf"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Courier New" officeooo:rsid="000d4b34" officeooo:paragraph-rsid="0037e2f4"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
@@ -391,61 +401,73 @@
    <style:text-properties fo:font-weight="normal" officeooo:rsid="002f9155" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T11" style:family="text">
-   <style:text-properties fo:font-weight="normal" officeooo:rsid="002153aa" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="T12" style:family="text">
-   <style:text-properties fo:font-weight="normal" officeooo:rsid="00320272" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="T13" style:family="text">
    <style:text-properties fo:font-style="italic" fo:font-weight="normal" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T14" style:family="text">
+  <style:style style:name="T12" style:family="text">
    <style:text-properties fo:font-style="normal" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T15" style:family="text">
+  <style:style style:name="T13" style:family="text">
    <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="000d4b34" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T16" style:family="text">
+  <style:style style:name="T14" style:family="text">
    <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0026f894" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T17" style:family="text">
+  <style:style style:name="T15" style:family="text">
    <style:text-properties officeooo:rsid="0026f894"/>
   </style:style>
-  <style:style style:name="T18" style:family="text">
+  <style:style style:name="T16" style:family="text">
    <style:text-properties style:font-name="Courier New"/>
   </style:style>
-  <style:style style:name="T19" style:family="text">
+  <style:style style:name="T17" style:family="text">
    <style:text-properties style:font-name="Courier New" officeooo:rsid="0026f894"/>
   </style:style>
-  <style:style style:name="T20" style:family="text">
+  <style:style style:name="T18" style:family="text">
    <style:text-properties style:font-name="Courier New" officeooo:rsid="00282ec4"/>
   </style:style>
-  <style:style style:name="T21" style:family="text">
+  <style:style style:name="T19" style:family="text">
    <style:text-properties style:font-name="Courier New" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T22" style:family="text">
+  <style:style style:name="T20" style:family="text">
    <style:text-properties style:font-name="Courier New" officeooo:rsid="002bb42c"/>
   </style:style>
-  <style:style style:name="T23" style:family="text">
+  <style:style style:name="T21" style:family="text">
    <style:text-properties style:font-name="Courier New" fo:font-weight="normal" officeooo:rsid="000d4b34" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T24" style:family="text">
+  <style:style style:name="T22" style:family="text">
    <style:text-properties style:font-name="Courier New" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="000d4b34" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T25" style:family="text">
+  <style:style style:name="T23" style:family="text">
    <style:text-properties style:font-name="Courier New" officeooo:rsid="000d4b34"/>
   </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties style:font-name="Courier New" officeooo:rsid="0037e2f4"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
+   <style:text-properties style:font-name="Courier New" officeooo:rsid="003a2acf"/>
+  </style:style>
   <style:style style:name="T26" style:family="text">
-   <style:text-properties officeooo:rsid="00282ec4"/>
+   <style:text-properties style:font-name="Courier New" officeooo:rsid="003b1ffc"/>
   </style:style>
   <style:style style:name="T27" style:family="text">
-   <style:text-properties officeooo:rsid="0012aae5"/>
+   <style:text-properties officeooo:rsid="00282ec4"/>
   </style:style>
   <style:style style:name="T28" style:family="text">
-   <style:text-properties officeooo:rsid="002bb42c"/>
+   <style:text-properties officeooo:rsid="0012aae5"/>
   </style:style>
   <style:style style:name="T29" style:family="text">
-   <style:text-properties officeooo:rsid="00320272"/>
+   <style:text-properties officeooo:rsid="002bb42c"/>
+  </style:style>
+  <style:style style:name="T30" style:family="text">
+   <style:text-properties officeooo:rsid="0034e8a8"/>
+  </style:style>
+  <style:style style:name="T31" style:family="text">
+   <style:text-properties officeooo:rsid="0039daf2"/>
+  </style:style>
+  <style:style style:name="T32" style:family="text">
+   <style:text-properties officeooo:rsid="003a2acf"/>
+  </style:style>
+  <style:style style:name="T33" style:family="text">
+   <style:text-properties officeooo:rsid="003c26d7"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in">
@@ -471,157 +493,172 @@
    <text:p text:style-name="P2"/>
    <text:p text:style-name="P2"/>
    <text:p text:style-name="P2">1. Setting up 2.11 BSD UUCP</text:p>
-   <text:p text:style-name="P19"/>
-   <text:p text:style-name="P2"><text:span text:style-name="T1">This is a guide for setting up UUCP communication between the host Pi and a guest 2.11 BSD system running on a PiDP-11. It is also generally valid for setting up UUCP communication between a</text:span><text:span text:style-name="T10">ny</text:span><text:span text:style-name="T1"> 2.11 BSD guest system running on the simh emulator and any host system, </text:span><text:span text:style-name="T8">and </text:span><text:span text:style-name="T9">this first section</text:span><text:span text:style-name="T8"> can probably be used with a real PDP-11 </text:span><text:span text:style-name="T9">(if the owner is not already familiar with UUCP on 2.11 BSD)</text:span><text:span text:style-name="T1">, but I am primarily writing for the benefit of the PiDP-11 community.</text:span></text:p>
-   <text:p text:style-name="P19"/>
-   <text:p text:style-name="P3"><text:span text:style-name="T1">Fortunately, this in general goes a bit easier than </text:span><text:span text:style-name="T2">setting up UUCP on V7 Unix, because we don’t need to recompile the kernel, and we already have a skeleton setup. On the other hand, there are some differences from the setup for V7 Unix, and most of the resources I was able to find covered either older systems (V7 Unix) or modern systems (Taylor UUCP on modern *nix).</text:span></text:p>
-   <text:p text:style-name="P20"/>
-   <text:p text:style-name="P11"><text:span text:style-name="T1">First, make sure that /etc/hostname contains the hostname you want the system to use. </text:span><text:span text:style-name="T3">It should be all-lower-case, or you might run into trouble with certain software later. (I had some issues with the interaction between C-news and INN due to a mixed-case hostname for my Pi). </text:span><text:span text:style-name="T7">Also change the “</text:span><text:span text:style-name="T23">hostname=...</text:span><text:span text:style-name="T7">” line in </text:span><text:span text:style-name="T23">/etc/netstart</text:span><text:span text:style-name="T7">.</text:span></text:p>
-   <text:p text:style-name="P44"/>
-   <text:p text:style-name="P12"><text:span text:style-name="T7">O</text:span><text:span text:style-name="T1">nce you’ve done this, log in as root and go to </text:span><text:span text:style-name="T23">/usr/spool/uucp</text:span><text:span text:style-name="T11"> and </text:span><text:span text:style-name="T1">create a pair of directories named </text:span><text:span text:style-name="T23">D.hostname</text:span><text:span text:style-name="T1"> and </text:span><text:span text:style-name="T23">D.hostnameX</text:span><text:span text:style-name="T1">, where “hostname” is the hostname you just assigned to the system. Then, assign them to the uucp user:</text:span></text:p>
-   <text:p text:style-name="P45"/>
-   <text:p text:style-name="P12"><text:span text:style-name="T1"><text:tab/></text:span><text:span text:style-name="T23"># cd /usr/spool/uucp</text:span></text:p>
-   <text:p text:style-name="P35"><text:tab/># mkdir D.hostname</text:p>
-   <text:p text:style-name="P35"><text:tab/># mkdir D.hostnameX</text:p>
-   <text:p text:style-name="P35"><text:tab/># chown uucp D.hostname D.hostnameX</text:p>
-   <text:p text:style-name="P21"/>
-   <text:p text:style-name="P4"><text:span text:style-name="T1">Then, look at </text:span><text:span text:style-name="T23">/etc/uucp/USERFILE</text:span><text:span text:style-name="T1"> . You should see something like:</text:span></text:p>
-   <text:p text:style-name="P22"/>
-   <text:p text:style-name="P34"><text:tab/>,<text:tab/>/usr/spool/uucppublic</text:p>
-   <text:p text:style-name="P22"/>
-   <text:p text:style-name="P22">This will allow any machine, logging in as any user, to access files in the /usr/spool/uucppublic directory. This is a good default. If you want to allow anything other than this, you can add entries in the format:</text:p>
-   <text:p text:style-name="P22"/>
-   <text:p text:style-name="P4"><text:span text:style-name="T1"><text:tab/></text:span><text:span text:style-name="T23">user,machine <text:s text:c="2"/>/directory1 /directory2 /directory3</text:span></text:p>
-   <text:p text:style-name="P22"/>
-   <text:p text:style-name="P22">Which gives the user/machine pair named access to the directories named.</text:p>
-   <text:p text:style-name="P22"/>
-   <text:p text:style-name="P5"><text:span text:style-name="T1">Now edit </text:span><text:span text:style-name="T23">/etc/uucp/L.sys</text:span><text:span text:style-name="T1"> . It will contain something like:</text:span></text:p>
-   <text:p text:style-name="P23"/>
-   <text:p text:style-name="P5"><text:span text:style-name="T1"><text:tab/></text:span><text:span text:style-name="T23">test Any TCP uucp test.your.domain login: dummy assword: yahoo!</text:span></text:p>
-   <text:p text:style-name="P32"><text:tab/>test Polled TCP uucp test.your.domain</text:p>
-   <text:p text:style-name="P23"/>
-   <text:p text:style-name="P23">Replace this with something of the form:</text:p>
-   <text:p text:style-name="P23"><text:soft-page-break/></text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="T1"><text:tab/></text:span><text:span text:style-name="T23">pi-hostname Never TCP telnet pi-hostname</text:span></text:p>
-   <text:p text:style-name="P23"/>
-   <text:p text:style-name="P5"><text:span text:style-name="T1">The first field tells UUCP that another UUCP system called “</text:span><text:span text:style-name="T23">pi-hostname</text:span><text:span text:style-name="T1">” exists, and that it might receive calls from that system. The second, “</text:span><text:span text:style-name="T23">Never</text:span><text:span text:style-name="T1">”, tells UUCP that it should never attempt to call that system (all interaction with “</text:span><text:span text:style-name="T23">pi-hostname</text:span><text:span text:style-name="T1">” will occur as a result of that system calling us). The rest of the line should be specified, but is a dummy value. It tells UUCP how to contact the remote system if we ever make a call to it (which we won’t, because this line specifies never to call the remote system).</text:span></text:p>
-   <text:p text:style-name="P23"/>
-   <text:p text:style-name="P5"><text:span text:style-name="T1">We don’t make calls to the </text:span><text:span text:style-name="T4">host</text:span><text:span text:style-name="T1"> because simh, to my knowledge, does not presently contain any method for an emulated system to establish outbound telnet connections over its serial ports. Eventually, we’ll probably have some kind of shim (probably involving tcpser or something like it) that lets us get around this, </text:span><text:span text:style-name="T4">but for now, we’ll just have the host Pi make all the calls.</text:span></text:p>
-   <text:p text:style-name="P24"/>
-   <text:p text:style-name="P6"><text:span text:style-name="T1">Now, use </text:span><text:span text:style-name="T23">vipw</text:span><text:span text:style-name="T1"> to edit </text:span><text:span text:style-name="T23">/etc/passwd</text:span><text:span text:style-name="T1"> to create a </text:span><text:span text:style-name="T5">user for the Pi to log in as for UUCP:</text:span></text:p>
-   <text:p text:style-name="P25"/>
-   <text:p text:style-name="P33"><text:tab/><text:span text:style-name="T29">#</text:span> vipw</text:p>
-   <text:p text:style-name="P25"/>
-   <text:p text:style-name="P8"><text:span text:style-name="T5">A</text:span><text:span text:style-name="T1">nd, once you’ve launched vipw add a line something like:</text:span></text:p>
-   <text:p text:style-name="P25"/>
-   <text:p text:style-name="P33"><text:tab/>pi-uucp:*:101:101::0:0:UUCP login for host pi:/usr/spool/uucppublic:/usr/sbin/uucico</text:p>
-   <text:p text:style-name="P25"/>
-   <text:p text:style-name="P27">Note this should all be typed on one line. It will wrap around in an 80 column terminal. That’s fine, just as long as there’s not a linefeed anywhere.</text:p>
-   <text:p text:style-name="P26"/>
-   <text:p text:style-name="P7"><text:span text:style-name="T1">If </text:span><text:span text:style-name="T23">vipw</text:span><text:span text:style-name="T1"> determines that you’ve created an invalid passwd file entry, it will prompt you to </text:span><text:span text:style-name="T6">reedit the file.</text:span></text:p>
-   <text:p text:style-name="P28"/>
-   <text:p text:style-name="P29">Now, set a password for the new account:</text:p>
-   <text:p text:style-name="P29"/>
-   <text:p text:style-name="P8"><text:span text:style-name="T1"><text:tab/></text:span><text:span text:style-name="T12">#</text:span><text:span text:style-name="T23"> passwd pi-uucp</text:span></text:p>
-   <text:p text:style-name="P29"/>
-   <text:p text:style-name="P30">UUCP is now set up on 2.11 BSD.</text:p>
-   <text:p text:style-name="P30"/>
-   <text:p text:style-name="P30"/>
-   <text:p text:style-name="P9">2. Setting up Taylor UUCP on the host Pi</text:p>
-   <text:p text:style-name="P30"/>
-   <text:p text:style-name="P10"><text:span text:style-name="T1">This will be mostly the same as in the </text:span><text:span text:style-name="T13">V7 UUCP Installation Guide</text:span><text:span text:style-name="T14">, except that the restriction of the host Pi giving itself a 7 character name when communicating with the guest system doesn’t apply. </text:span><text:span text:style-name="T15">As root, open up /</text:span><text:span text:style-name="T24">etc/uucp/sys</text:span><text:span text:style-name="T15"> in your text editor of choice. Leave the defaults at the top of the file in place.</text:span></text:p>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="P40">Add the following block of text:</text:p>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="P40"><text:tab/><text:span text:style-name="T18">system </text:span><text:span text:style-name="T19">211</text:span><text:span text:style-name="T18">name</text:span></text:p>
-   <text:p text:style-name="P38"><text:tab/>time any n</text:p>
-   <text:p text:style-name="P38"><text:soft-page-break/><text:tab/>max-retries n</text:p>
-   <text:p text:style-name="P38"><text:tab/>call-login pi-login</text:p>
-   <text:p text:style-name="P38"><text:tab/>call-password pi-passwd</text:p>
-   <text:p text:style-name="P38"><text:tab/>port <text:span text:style-name="T17">211</text:span>-dz</text:p>
-   <text:p text:style-name="P38"><text:tab/>address localhost</text:p>
-   <text:p text:style-name="P38"><text:tab/>chat &quot;&quot; \d\d\r ogin: \d\L word: \P</text:p>
-   <text:p text:style-name="P38"><text:tab/></text:p>
-   <text:p text:style-name="P38"><text:tab/>alternate <text:span text:style-name="T17">211</text:span>name-2</text:p>
-   <text:p text:style-name="P31"><text:span text:style-name="T14"><text:tab/>port </text:span><text:span text:style-name="T16">211</text:span><text:span text:style-name="T14">-d</text:span><text:span text:style-name="T16">z</text:span><text:span text:style-name="T14">-pipe</text:span></text:p>
-   <text:p text:style-name="P37"/>
-   <text:p text:style-name="P13">The argument to &quot;s<text:span text:style-name="T18">ystem</text:span>&quot; should be the name you gave to the <text:span text:style-name="T17">2.11 BSD</text:span> system when setting up UUCP. Call-login should use the same <text:span text:style-name="T17">user </text:span>name you created in <text:span text:style-name="T18">/etc/passwd</text:span> on <text:span text:style-name="T17">2.11 BSD</text:span>, and <text:s/>call-password should be the same password you set up with <text:span text:style-name="T18">passwd</text:span> in the last step of the <text:span text:style-name="T17">2.11 BSD </text:span>instructions. For &quot;<text:span text:style-name="T18">time</text:span>&quot;, the &quot;<text:span text:style-name="T18">any</text:span>&quot; keyword means that Taylor UUCP can call <text:span text:style-name="T17">2.11 BSD</text:span> at any time, and the number &quot;<text:span text:style-name="T18">n</text:span>&quot; is the number of minutes you want it to wait between attempts to call <text:span text:style-name="T17">2.11 BSD</text:span>. It can be omitted if you don&apos;t want to have a minimum wait time. For &quot;<text:span text:style-name="T18">max retries</text:span>&quot;, <text:span text:style-name="T18">n</text:span> is the number of times UUCP will try calling <text:span text:style-name="T17">2.11 BSD</text:span> before giving up until the next day.</text:p>
-   <text:p text:style-name="P13"/>
-   <text:p text:style-name="P40">The chat script is made up of pairs of strings to expect, and the response to send</text:p>
-   <text:p text:style-name="P40">to those strings. So first, we expect nothing (that is, we immediately send the</text:p>
-   <text:p text:style-name="P40">&quot;respon<text:span text:style-name="T17">se</text:span>&quot;), wait two seconds with \d\d, and then send a carriage return, \r.</text:p>
-   <text:p text:style-name="P40">When &quot;login&quot; on <text:span text:style-name="T26">2.11 BSD</text:span> sees the carriage return, it will reprint the login prompt.</text:p>
-   <text:p text:style-name="P40">We then wait for the string &quot;ogin:&quot; (in case we miss the first letter of &quot;login:&quot;), </text:p>
-   <text:p text:style-name="P40">wait one second, and send our login name with \L. We then wait for &quot;word:&quot;, and send</text:p>
-   <text:p text:style-name="P13">our password with \P.</text:p>
-   <text:p text:style-name="P13"/>
-   <text:p text:style-name="P41">The alternate name is just a name to identify an alternate means of calling the</text:p>
-   <text:p text:style-name="P41"><text:span text:style-name="T26">2.11 BSD</text:span> system.</text:p>
-   <text:p text:style-name="P41"/>
-   <text:p text:style-name="P41">Now edit <text:span text:style-name="T21">/etc/uucp/port</text:span>, and add the following two entries. <text:span text:style-name="T21">211-dz</text:span> is the method we use to call the <text:span text:style-name="T26">2.11 BSD</text:span> system on the first attempt, <text:span text:style-name="T27">which is just to have uucico itself try to contact the 2.11 BSD system over port 4001</text:span>, <text:span text:style-name="T21">211-dz-pipe</text:span> is the alternate method we try if that doesn&apos;t work, which is to invoke telnet and use that to try to connect.</text:p>
-   <text:p text:style-name="P41"/>
-   <text:p text:style-name="P41"><text:tab/><text:span text:style-name="T18">port </text:span><text:span text:style-name="T20">211</text:span><text:span text:style-name="T18">-dz</text:span></text:p>
-   <text:p text:style-name="P39"><text:tab/>type tcp</text:p>
-   <text:p text:style-name="P39"><text:tab/>service <text:span text:style-name="T26">4001</text:span></text:p>
-   <text:p text:style-name="P39"><text:tab/></text:p>
-   <text:p text:style-name="P39"><text:tab/>port <text:span text:style-name="T26">211</text:span>-d<text:span text:style-name="T26">z</text:span>-pipe</text:p>
-   <text:p text:style-name="P39"><text:tab/>type pipe</text:p>
-   <text:p text:style-name="P39"><text:tab/>command /usr/bin/telnet -8 <text:span text:style-name="T26">4001</text:span></text:p>
-   <text:p text:style-name="P41"><text:tab/></text:p>
-   <text:p text:style-name="P17">Now, edit the simh b<text:span text:style-name="T25">oot.ini</text:span> file for your 2.11 BSD system. Halfway down or so, you should see something like this:</text:p>
-   <text:p text:style-name="P17"/>
-   <text:p text:style-name="P36"><text:tab/>set dz enabled</text:p>
-   <text:p text:style-name="P36"><text:tab/>set dz lines=8</text:p>
-   <text:p text:style-name="P36"><text:tab/>set dz 7b</text:p>
-   <text:p text:style-name="P36"><text:soft-page-break/><text:tab/>;attach -am dz 4000</text:p>
-   <text:p text:style-name="P36"><text:tab/>attach dz 4000</text:p>
-   <text:p text:style-name="P17"/>
-   <text:p text:style-name="P17">I had trouble getting good UUCP communication with the 2.11 BSD system using these settings. Change it to something like this:<text:line-break/><text:line-break/><text:tab/><text:span text:style-name="T20">set dz enabled</text:span></text:p>
-   <text:p text:style-name="P36"><text:tab/>set dz lines=8</text:p>
-   <text:p text:style-name="P36"><text:tab/>set dz 8b</text:p>
-   <text:p text:style-name="P36"><text:tab/>attach -a -m dz 4000</text:p>
-   <text:p text:style-name="P36"><text:tab/>attach dz -a -m line=7,4001;notelnet</text:p>
-   <text:p text:style-name="P14"/>
-   <text:p text:style-name="P18">If your 2.11 BSD system is running, bring it down and wait for the <text:span text:style-name="T25">sim&gt;</text:span> prompt, then type:</text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18"><text:tab/><text:span text:style-name="T25">sim&gt; do boot.ini</text:span></text:p>
-   <text:p text:style-name="P14"/>
-   <text:p text:style-name="P18">This will load the new configuration.</text:p>
-   <text:p text:style-name="P14"/>
-   <text:p text:style-name="P42">Now, find a convenient file to try to send to the v7 system. Send it to the public directory on the v7 system:</text:p>
+   <text:p text:style-name="P2"><text:span text:style-name="T1">This is a guide for setting up UUCP communication between the host Pi and a guest 2.11 BSD system running on a PiDP-11. It is also generally valid for setting up UUCP communication between a</text:span><text:span text:style-name="T10">ny</text:span><text:span text:style-name="T1"> 2.11 BSD guest system running on the simh emulator and any host system, </text:span><text:span text:style-name="T8">and </text:span><text:span text:style-name="T9">this first section</text:span><text:span text:style-name="T8"> can probably be used with a real PDP-11 </text:span><text:span text:style-name="T9">(if the owner is not already familiar with UUCP on 2.11 BSD)</text:span><text:span text:style-name="T1">, but I am primarily writing for the benefit of the PiDP-11 community.</text:span></text:p>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P3"><text:span text:style-name="T1">Fortunately, this in general goes a bit easier than </text:span><text:span text:style-name="T2">setting up UUCP on V7 Unix, because we don’t need to recompile the kernel, and we already have a skeleton setup. On the other hand, there are some differences from the setup for V7 Unix, and most of the resources I was able to find covered either older systems (V7 Unix) or modern systems (Taylor UUCP on modern *nix).</text:span></text:p>
+   <text:p text:style-name="P19"/>
+   <text:p text:style-name="P4"><text:span text:style-name="T1">First, make sure that /etc/hostname contains the hostname you want the system to use. </text:span><text:span text:style-name="T3">It should be all-lower-case, or you might run into trouble with certain software later. (I had some issues with the interaction between C-news and INN due to a mixed-case hostname for my Pi). </text:span><text:span text:style-name="T7">Also change the “</text:span><text:span text:style-name="T21">hostname=...</text:span><text:span text:style-name="T7">” line in </text:span><text:span text:style-name="T21">/etc/netstart</text:span><text:span text:style-name="T7">.</text:span></text:p>
+   <text:p text:style-name="P20"/>
+   <text:p text:style-name="P5"><text:span text:style-name="T1">Then, look at </text:span><text:span text:style-name="T21">/etc/uucp/USERFILE</text:span><text:span text:style-name="T1"> . You should see something like:</text:span></text:p>
+   <text:p text:style-name="P21"/>
+   <text:p text:style-name="P33"><text:tab/>,<text:tab/>/usr/spool/uucppublic</text:p>
+   <text:p text:style-name="P21"/>
+   <text:p text:style-name="P21">This will allow any machine, logging in as any user, to access files in the /usr/spool/uucppublic directory. This is a good default. If you want to allow anything other than this, you can add entries in the format:</text:p>
+   <text:p text:style-name="P21"/>
+   <text:p text:style-name="P5"><text:span text:style-name="T1"><text:tab/></text:span><text:span text:style-name="T21">user,machine <text:s text:c="2"/>/directory1 /directory2 /directory3</text:span></text:p>
+   <text:p text:style-name="P21"/>
+   <text:p text:style-name="P21">Which gives the user/machine pair named access to the directories named.</text:p>
+   <text:p text:style-name="P21"/>
+   <text:p text:style-name="P6"><text:span text:style-name="T1">Now edit </text:span><text:span text:style-name="T21">/etc/uucp/L.sys</text:span><text:span text:style-name="T1"> . It will contain something like:</text:span></text:p>
+   <text:p text:style-name="P22"/>
+   <text:p text:style-name="P6"><text:span text:style-name="T1"><text:tab/></text:span><text:span text:style-name="T21">test Any TCP uucp test.your.domain login: dummy assword: yahoo!</text:span></text:p>
+   <text:p text:style-name="P31"><text:tab/>test Polled TCP uucp test.your.domain</text:p>
+   <text:p text:style-name="P22"/>
+   <text:p text:style-name="P22">Replace this with something of the form:</text:p>
+   <text:p text:style-name="P22"/>
+   <text:p text:style-name="P6"><text:span text:style-name="T1"><text:tab/></text:span><text:span text:style-name="T21">pi-hostname Never TCP telnet pi-hostname</text:span></text:p>
+   <text:p text:style-name="P22"/>
+   <text:p text:style-name="P6"><text:span text:style-name="T1">The first field tells UUCP that another UUCP system called “</text:span><text:span text:style-name="T21">pi-hostname</text:span><text:span text:style-name="T1">” exists, and that it might receive calls from that system. The second, “</text:span><text:span text:style-name="T21">Never</text:span><text:span text:style-name="T1">”, tells UUCP that it should never attempt to call that system (all interaction with “</text:span><text:span text:style-name="T21">pi-hostname</text:span><text:span text:style-name="T1">” will occur as a result of that system calling us). The rest of the line should be specified, but is a dummy value. It tells UUCP how to contact the remote system if we ever make a call to it (which we won’t, because this line specifies never to call the remote system).</text:span></text:p>
+   <text:p text:style-name="P22"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T1">We don’t make calls to the </text:span><text:span text:style-name="T4">host</text:span><text:span text:style-name="T1"> because simh, to my knowledge, does not presently contain any method for an emulated system to establish outbound telnet connections over its serial ports. Eventually, we’ll probably have some kind of shim (probably involving tcpser or something like it) that lets us get around this, </text:span><text:span text:style-name="T4">but for now, we’ll just have the host Pi make all the calls.</text:span></text:p>
+   <text:p text:style-name="P23"/>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">Now, use </text:span><text:span text:style-name="T21">vipw</text:span><text:span text:style-name="T1"> to edit </text:span><text:span text:style-name="T21">/etc/passwd</text:span><text:span text:style-name="T1"> to create a </text:span><text:span text:style-name="T5">user for the Pi to log in as for UUCP:</text:span></text:p>
+   <text:p text:style-name="P24"/>
+   <text:p text:style-name="P32"><text:tab/>$ vipw</text:p>
+   <text:p text:style-name="P24"/>
+   <text:p text:style-name="P9"><text:span text:style-name="T5">A</text:span><text:span text:style-name="T1">nd, once you’ve launched vipw add a line something like:</text:span></text:p>
+   <text:p text:style-name="P24"/>
+   <text:p text:style-name="P32"><text:tab/>pi-uucp:*:101:101::0:0:UUCP login for host pi:/usr/spool/uucppublic:/usr/sbin/uucico</text:p>
+   <text:p text:style-name="P24"/>
+   <text:p text:style-name="P26">Note this should all be typed on one line. It will wrap around in an 80 column terminal. That’s fine, just as long as there’s not a linefeed anywhere.</text:p>
+   <text:p text:style-name="P25"/>
+   <text:p text:style-name="P8"><text:span text:style-name="T1">If </text:span><text:span text:style-name="T21">vipw</text:span><text:span text:style-name="T1"> determines that you’ve created an invalid passwd file entry, it will prompt you to </text:span><text:span text:style-name="T6">reedit the file.</text:span></text:p>
+   <text:p text:style-name="P27"/>
+   <text:p text:style-name="P28">Now, set a password for the new account:</text:p>
+   <text:p text:style-name="P28"/>
+   <text:p text:style-name="P9"><text:span text:style-name="T1"><text:tab/></text:span><text:span text:style-name="T21">$ passwd pi-uucp</text:span></text:p>
+   <text:p text:style-name="P28"/>
+   <text:p text:style-name="P29">UUCP is now set up on 2.11 BSD.</text:p>
+   <text:p text:style-name="P29"/>
+   <text:p text:style-name="P29"/>
+   <text:p text:style-name="P10">2. Setting up Taylor UUCP on the host Pi</text:p>
+   <text:p text:style-name="P29"/>
+   <text:p text:style-name="P11"><text:span text:style-name="T1">This will be mostly the same as in the </text:span><text:span text:style-name="T11">V7 UUCP Installation Guide</text:span><text:span text:style-name="T12">, except that the restriction of the host Pi giving itself a 7 character name when communicating with the guest system doesn’t apply. </text:span><text:span text:style-name="T13">As root, open up /</text:span><text:span text:style-name="T22">etc/uucp/sys</text:span><text:span text:style-name="T13"> in your text editor of choice. Leave the defaults at the top of the file in place.</text:span></text:p>
+   <text:p text:style-name="P38"/>
+   <text:p text:style-name="P38">Add the following block of text:</text:p>
+   <text:p text:style-name="P38"/>
+   <text:p text:style-name="P38"><text:tab/><text:span text:style-name="T16">system </text:span><text:span text:style-name="T17">211</text:span><text:span text:style-name="T16">name</text:span></text:p>
+   <text:p text:style-name="P36"><text:tab/>time any n</text:p>
+   <text:p text:style-name="P36"><text:tab/>max-retries n</text:p>
+   <text:p text:style-name="P36"><text:tab/>call-login pi-login</text:p>
+   <text:p text:style-name="P36"><text:tab/>call-password pi-passwd</text:p>
+   <text:p text:style-name="P36"><text:tab/>port <text:span text:style-name="T15">211</text:span>-dz</text:p>
+   <text:p text:style-name="P36"><text:tab/>address localhost</text:p>
+   <text:p text:style-name="P36"><text:tab/>chat &quot;&quot; \d\d\r ogin: \d\L word: \P</text:p>
+   <text:p text:style-name="P36"><text:tab/></text:p>
+   <text:p text:style-name="P36"><text:tab/>alternate <text:span text:style-name="T15">211</text:span>name-2</text:p>
+   <text:p text:style-name="P30"><text:span text:style-name="T12"><text:tab/>port </text:span><text:span text:style-name="T14">211</text:span><text:span text:style-name="T12">-d</text:span><text:span text:style-name="T14">z</text:span><text:span text:style-name="T12">-pipe</text:span></text:p>
+   <text:p text:style-name="P35"/>
+   <text:p text:style-name="P12"><text:soft-page-break/>The argument to &quot;s<text:span text:style-name="T16">ystem</text:span>&quot; should be the name you gave to the <text:span text:style-name="T15">2.11 BSD</text:span> system when setting up UUCP. Call-login should use the same <text:span text:style-name="T15">user </text:span>name you created in <text:span text:style-name="T16">/etc/passwd</text:span> on <text:span text:style-name="T15">2.11 BSD</text:span>, and <text:s/>call-password should be the same password you set up with <text:span text:style-name="T16">passwd</text:span> in the last step of the <text:span text:style-name="T15">2.11 BSD </text:span>instructions. For &quot;<text:span text:style-name="T16">time</text:span>&quot;, the &quot;<text:span text:style-name="T16">any</text:span>&quot; keyword means that Taylor UUCP can call <text:span text:style-name="T15">2.11 BSD</text:span> at any time, and the number &quot;<text:span text:style-name="T16">n</text:span>&quot; is the number of minutes you want it to wait between attempts to call <text:span text:style-name="T15">2.11 BSD</text:span>. It can be omitted if you don&apos;t want to have a minimum wait time. For &quot;<text:span text:style-name="T16">max retries</text:span>&quot;, <text:span text:style-name="T16">n</text:span> is the number of times UUCP will try calling <text:span text:style-name="T15">2.11 BSD</text:span> before giving up until the next day.</text:p>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P38">The chat script is made up of pairs of strings to expect, and the response to send</text:p>
+   <text:p text:style-name="P38">to those strings. So first, we expect nothing (that is, we immediately send the</text:p>
+   <text:p text:style-name="P38">&quot;respon<text:span text:style-name="T15">se</text:span>&quot;), wait two seconds with \d\d, and then send a carriage return, \r.</text:p>
+   <text:p text:style-name="P38">When &quot;login&quot; on <text:span text:style-name="T27">2.11 BSD</text:span> sees the carriage return, it will reprint the login prompt.</text:p>
+   <text:p text:style-name="P38">We then wait for the string &quot;ogin:&quot; (in case we miss the first letter of &quot;login:&quot;), </text:p>
+   <text:p text:style-name="P38">wait one second, and send our login name with \L. We then wait for &quot;word:&quot;, and send</text:p>
+   <text:p text:style-name="P12">our password with \P.</text:p>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P39">The alternate name is just a name to identify an alternate means of calling the</text:p>
+   <text:p text:style-name="P39"><text:span text:style-name="T27">2.11 BSD</text:span> system.</text:p>
+   <text:p text:style-name="P39"/>
+   <text:p text:style-name="P39">Now edit <text:span text:style-name="T19">/etc/uucp/port</text:span>, and add the following two entries. <text:span text:style-name="T19">211-dz</text:span> is the method we use to call the <text:span text:style-name="T27">2.11 BSD</text:span> system on the first attempt, <text:span text:style-name="T28">which is just to have uucico itself try to contact the 2.11 BSD system over port 4001</text:span>, <text:span text:style-name="T19">211-dz-pipe</text:span> is the alternate method we try if that doesn&apos;t work, which is to invoke telnet and use that to try to connect.</text:p>
+   <text:p text:style-name="P39"/>
+   <text:p text:style-name="P39"><text:tab/><text:span text:style-name="T16">port </text:span><text:span text:style-name="T18">211</text:span><text:span text:style-name="T16">-dz</text:span></text:p>
+   <text:p text:style-name="P37"><text:tab/>type tcp</text:p>
+   <text:p text:style-name="P37"><text:tab/>service <text:span text:style-name="T27">4001</text:span></text:p>
+   <text:p text:style-name="P37"><text:tab/></text:p>
+   <text:p text:style-name="P37"><text:tab/>port <text:span text:style-name="T27">211</text:span>-d<text:span text:style-name="T27">z</text:span>-pipe</text:p>
+   <text:p text:style-name="P37"><text:tab/>type pipe</text:p>
+   <text:p text:style-name="P37"><text:tab/>command /usr/bin/telnet -8 <text:span text:style-name="T27">4001</text:span></text:p>
+   <text:p text:style-name="P39"><text:tab/></text:p>
+   <text:p text:style-name="P16">Now, edit the simh b<text:span text:style-name="T23">oot.ini</text:span> file for your 2.11 BSD system. Halfway down or so, you should see something like this:</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P34"><text:tab/>set dz enabled</text:p>
+   <text:p text:style-name="P34"><text:tab/>set dz lines=8</text:p>
+   <text:p text:style-name="P34"><text:tab/>set dz 7b</text:p>
+   <text:p text:style-name="P34"><text:tab/>;attach -am dz 4000</text:p>
+   <text:p text:style-name="P34"><text:tab/>attach dz 4000</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">I had trouble getting good UUCP communication with the 2.11 BSD system using these settings. Change it to something like this:<text:line-break/><text:line-break/><text:tab/><text:span text:style-name="T18">set dz enabled</text:span></text:p>
+   <text:p text:style-name="P34"><text:tab/>set dz lines=8</text:p>
+   <text:p text:style-name="P34"><text:tab/>set dz 8b</text:p>
+   <text:p text:style-name="P34"><text:tab/>attach -a -m dz 4000</text:p>
+   <text:p text:style-name="P34"><text:soft-page-break/><text:tab/>attach dz -a -m line=7,4001;notelnet</text:p>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P17">If your 2.11 BSD system is running, bring it down and wait for the <text:span text:style-name="T23">sim&gt;</text:span> prompt, then type:</text:p>
+   <text:p text:style-name="P17"/>
+   <text:p text:style-name="P17"><text:tab/><text:span text:style-name="T23">sim&gt; do boot.ini</text:span></text:p>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P17">This will load the new configuration.</text:p>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P40">Now, find a convenient file to try to send to the v7 system. Send it to the public directory on the v7 system:</text:p>
+   <text:p text:style-name="P40"/>
+   <text:p text:style-name="P40"><text:tab/><text:span text:style-name="T16">$ uucp filename </text:span><text:span text:style-name="T20">211name</text:span><text:span text:style-name="T16">\!~/</text:span></text:p>
+   <text:p text:style-name="P40"/>
+   <text:p text:style-name="P14">&quot;<text:span text:style-name="T16">211name</text:span>&quot; of course, should be replaced with the name you used for the v7 system. Note that the ! has to be escaped with a backslash, since ! has a meaning on many modern shells.</text:p>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P40">This queues up the file for sending. Back in the day, our system would generally make scheduled callouts to the other system (or receive scheduled callins from the other system). The uucp program would queue work to be sent during the scheduled call. Since we&apos;re just transferring between two systems that we completely control (for now), setting up a scheduled call would be overkill, and also would force us to wait for the call. Instead, we&apos;ll just tell UUCP to call immediately.</text:p>
+   <text:p text:style-name="P40"/>
+   <text:p text:style-name="P40"><text:tab/><text:span text:style-name="T16">$ sudo uucico -s </text:span><text:span text:style-name="T24">211name</text:span></text:p>
+   <text:p text:style-name="P40"/>
+   <text:p text:style-name="P40">If all goes well, once uucico finishes executing, we should be able to find our file in <text:span text:style-name="T19">/usr/spool/uucp/public</text:span> on the <text:span text:style-name="T29">2.11 BSD</text:span> system. On the <text:span text:style-name="T29">2.11 BSD</text:span> system, type:</text:p>
+   <text:p text:style-name="P40"/>
+   <text:p text:style-name="P40"><text:tab/><text:span text:style-name="T16"># ls /usr/spool/uucppublic</text:span></text:p>
+   <text:p text:style-name="P40"/>
+   <text:p text:style-name="P40">which should display:</text:p>
+   <text:p text:style-name="P40"/>
+   <text:p text:style-name="P40"><text:tab/><text:span text:style-name="T16">filename</text:span></text:p>
+   <text:p text:style-name="P40"/>
+   <text:p text:style-name="P40">Now send it back. On the <text:span text:style-name="T29">2.11 BSD</text:span> system, type:</text:p>
+   <text:p text:style-name="P40"/>
+   <text:p text:style-name="P40"><text:tab/><text:span text:style-name="T16"># uucp /usr/spool/uucp/public/foo.c piname!~/</text:span></text:p>
+   <text:p text:style-name="P40"/>
+   <text:p text:style-name="P40">Note that since the <text:span text:style-name="T19">/bin/sh</text:span><text:span text:style-name="T29"> on 2.11 BSD</text:span> doesn&apos;t interpret ! in any special way, we don&apos;t need to</text:p>
+   <text:p text:style-name="P14">escape it here. <text:span text:style-name="T29">However, if you are using csh or tcsh, you will have to escape it.</text:span></text:p>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P41">And then on the pi, type:</text:p>
+   <text:p text:style-name="P41"/>
+   <text:p text:style-name="P41"><text:tab/><text:span text:style-name="T16">$ sudo uucico -s </text:span><text:span text:style-name="T24">211name</text:span></text:p>
+   <text:p text:style-name="P41"/>
+   <text:p text:style-name="P41">Once uucico is done, we should be able to list <text:span text:style-name="T19">/var/spool/uucppublic</text:span>, and see our file.</text:p>
+   <text:p text:style-name="P41"/>
+   <text:p text:style-name="P41"><text:tab/><text:span text:style-name="T16">$ ls /var/spool/uucp/public</text:span></text:p>
+   <text:p text:style-name="P41"/>
+   <text:p text:style-name="P42"><text:soft-page-break/>If you want to <text:span text:style-name="T30">have the Pi poll the 2BSD system automatically on a schedule (for example, if you’ll be transferring mail or news), instead of running uucico yourself every time you have something to send, either add the system to /etc/uucp/Poll:</text:span></text:p>
    <text:p text:style-name="P42"/>
-   <text:p text:style-name="P42"><text:tab/><text:span text:style-name="T18">$ uucp filename </text:span><text:span text:style-name="T22">211name</text:span><text:span text:style-name="T18">\!~/</text:span></text:p>
+   <text:p text:style-name="P44"><text:tab/><text:span text:style-name="T23">schedule 211name hours</text:span></text:p>
+   <text:p text:style-name="P44"/>
+   <text:p text:style-name="P44">where “hours” is a list of two-digit hours of the day (between 00 and 23) specifying at what times calls to the BSD system should be made,</text:p>
    <text:p text:style-name="P42"/>
-   <text:p text:style-name="P15">&quot;<text:span text:style-name="T18">211name</text:span>&quot; of course, should be replaced with the name you used for the v7 system. Note that the ! has to be escaped with a backslash, since ! has a meaning on many modern shells.</text:p>
-   <text:p text:style-name="P14"/>
-   <text:p text:style-name="P42">This queues up the file for sending. Back in the day, our system would generally make scheduled callouts to the other system (or receive scheduled callins from the other system). The uucp program would queue work to be sent during the scheduled call. Since we&apos;re just transferring between two systems that we completely control (for now), setting up a scheduled call would be overkill, and also would force us to wait for the call. Instead, we&apos;ll just tell UUCP to call immediately.</text:p>
+   <text:p text:style-name="P47"><text:s/>or edit /etc/cron.d/uucp to poll the system directly:</text:p>
    <text:p text:style-name="P42"/>
-   <text:p text:style-name="P42"><text:tab/><text:span text:style-name="T18">$ sudo uucico -s anduin</text:span></text:p>
+   <text:p text:style-name="P42"><text:tab/><text:span text:style-name="T23">0 <text:s text:c="4"/>* <text:s text:c="6"/>* <text:s text:c="6"/>* <text:s text:c="6"/>* <text:s text:c="6"/>uucp <text:s text:c="3"/>/usr/sbin/uucico -x3 -f -s 211name</text:span></text:p>
    <text:p text:style-name="P42"/>
-   <text:p text:style-name="P42">If all goes well, once uucico finishes executing, we should be able to find our file in <text:span text:style-name="T21">/usr/spool/uucp/public</text:span> on the <text:span text:style-name="T28">2.11 BSD</text:span> system. On the <text:span text:style-name="T28">2.11 BSD</text:span> system, type:</text:p>
+   <text:p text:style-name="P44">which calls the system every hour, on the hour. <text:span text:style-name="T32">You could use something like</text:span></text:p>
+   <text:p text:style-name="P44"/>
+   <text:p text:style-name="P43"><text:span text:style-name="T23"><text:tab/></text:span><text:span text:style-name="T25">*/</text:span><text:span text:style-name="T26">15</text:span><text:span text:style-name="T23"> <text:s text:c="4"/>* <text:s text:c="6"/>* <text:s text:c="6"/>* <text:s text:c="6"/>* <text:s text:c="6"/>uucp <text:s text:c="3"/>/usr/sbin/uucico -x3 -f -s 211name</text:span></text:p>
+   <text:p text:style-name="P44"/>
+   <text:p text:style-name="P48">to run uucico every 15 minutes.</text:p>
+   <text:p text:style-name="P45"/>
+   <text:p text:style-name="P45">The Poll file is called by a line in the uucp crontab, every hour. It’s not mentioned in the Taylor BSD documentation (that I could find), so I’m not sure of all the syntax for it. Thus, for my system, I have scheduled the call directly in the crontab, <text:span text:style-name="T31">as the crontab format is well documented. The documentation can be accessed from the shell by typing:</text:span></text:p>
+   <text:p text:style-name="P44"/>
+   <text:p text:style-name="P49"><text:tab/>$ man 5 crontab</text:p>
    <text:p text:style-name="P42"/>
-   <text:p text:style-name="P42"><text:tab/><text:span text:style-name="T18"># ls /usr/spool/uucppublic</text:span></text:p>
+   <text:p text:style-name="P46">The basic gist of the format is that the first five fields are the minute, hour, day of month, month, and day of week, the sixth field is the user to run as, and the rest of the line is the command to run. <text:s/>A cron line is run any time the current time matches all three of the minute, hour, and month fields, and either one of the day of month or day of week fields. Names can be used for months and days of the week. A * in a field will match any time. Ranges, designated with dash, can be used (e.g, <text:span text:style-name="T33">1-5 </text:span>in the day of week field will match any <text:span text:style-name="T33">day that isn’t a weekend), a field can contain a list separated with commas, and /&lt;number&gt; runs at every step of so many minutes/hours/etc. For example */10 in the minutes field will run at every minute divisible by ten, 9-17/2 in the hours field will run at 9 AM, and then every other hour until 5 PM.</text:span></text:p>
    <text:p text:style-name="P42"/>
-   <text:p text:style-name="P42">which should display:</text:p>
-   <text:p text:style-name="P42"/>
-   <text:p text:style-name="P42"><text:tab/><text:span text:style-name="T18">filename</text:span></text:p>
-   <text:p text:style-name="P42"/>
-   <text:p text:style-name="P42">Now send it back. On the <text:span text:style-name="T28">2.11 BSD</text:span> system, type:</text:p>
-   <text:p text:style-name="P42"/>
-   <text:p text:style-name="P42"><text:tab/><text:span text:style-name="T18"># uucp /usr/spool/uucp/public/foo.c piname!~/</text:span></text:p>
-   <text:p text:style-name="P42"/>
-   <text:p text:style-name="P42">Note that since the <text:span text:style-name="T21">/bin/sh</text:span><text:span text:style-name="T28"> on 2.11 BSD</text:span> doesn&apos;t interpret ! in any special way, we don&apos;t need to</text:p>
-   <text:p text:style-name="P15"><text:soft-page-break/>escape it here. <text:span text:style-name="T28">However, if you are using csh or tcsh, you will have to escape it.</text:span></text:p>
-   <text:p text:style-name="P14"/>
-   <text:p text:style-name="P43">And then on the pi, type:</text:p>
-   <text:p text:style-name="P43"/>
-   <text:p text:style-name="P43"><text:tab/><text:span text:style-name="T18">$ sudo uucico -s anduin</text:span></text:p>
-   <text:p text:style-name="P43"/>
-   <text:p text:style-name="P43">Once uucico is done, we should be able to list <text:span text:style-name="T21">/var/spool/uucppublic</text:span>, and see our file.</text:p>
-   <text:p text:style-name="P43"/>
-   <text:p text:style-name="P43"><text:tab/><text:span text:style-name="T18">$ ls /var/spool/uucp/public</text:span></text:p>
-   <text:p text:style-name="P43"/>
-   <text:p text:style-name="P16">That&apos;s it! We&apos;ve set up UUCP.</text:p>
+   <text:p text:style-name="P15">That&apos;s it! We&apos;ve set up UUCP.</text:p>
   </office:text>
  </office:body>
 </office:document>
