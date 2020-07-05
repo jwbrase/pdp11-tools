@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2020-03-04T15:56:12.208507663</meta:creation-date><dc:date>2020-06-24T01:36:41.595534874</dc:date><meta:editing-duration>PT2H1M40S</meta:editing-duration><meta:editing-cycles>7</meta:editing-cycles><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:document-statistic meta:character-count="9644" meta:image-count="0" meta:non-whitespace-character-count="7892" meta:object-count="0" meta:page-count="5" meta:paragraph-count="102" meta:table-count="0" meta:word-count="1733"/></office:meta>
+ <office:meta><meta:creation-date>2020-03-04T15:56:12.208507663</meta:creation-date><dc:date>2020-07-05T03:50:24.413436899</dc:date><meta:editing-duration>PT2H4M2S</meta:editing-duration><meta:editing-cycles>8</meta:editing-cycles><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="5" meta:paragraph-count="102" meta:word-count="1733" meta:character-count="9644" meta:non-whitespace-character-count="7892"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">83705</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">31394</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">13982</config:config-item>
@@ -14,11 +14,11 @@
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
      <config:config-item config:name="ViewLeft" config:type="long">6902</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">2501</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">116265</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">83705</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">31392</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">13981</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">97686</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -92,7 +92,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">4132781</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">4206119</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -335,40 +335,54 @@
    <style:text-properties style:font-name="Courier New" officeooo:rsid="000d4b34" officeooo:paragraph-rsid="00282ec4"/>
   </style:style>
   <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="000d4b34" officeooo:paragraph-rsid="0026f894"/>
+   <style:text-properties style:font-name="Courier New" officeooo:rsid="000d4b34" officeooo:paragraph-rsid="0037e2f4"/>
   </style:style>
   <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="000d4b34" officeooo:paragraph-rsid="00282ec4"/>
+   <style:text-properties officeooo:rsid="000d4b34" officeooo:paragraph-rsid="0026f894"/>
   </style:style>
   <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="000d4b34" officeooo:paragraph-rsid="002bb42c"/>
+   <style:text-properties officeooo:rsid="000d4b34" officeooo:paragraph-rsid="00282ec4"/>
   </style:style>
   <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="000d4b34" officeooo:paragraph-rsid="002d6195"/>
+   <style:text-properties officeooo:rsid="000d4b34" officeooo:paragraph-rsid="002bb42c"/>
   </style:style>
   <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0034287f" officeooo:paragraph-rsid="0036c124"/>
+   <style:text-properties officeooo:rsid="000d4b34" officeooo:paragraph-rsid="002d6195"/>
   </style:style>
   <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0034287f" officeooo:paragraph-rsid="003a2acf"/>
+   <style:text-properties officeooo:rsid="0034287f" officeooo:paragraph-rsid="0036c124"/>
   </style:style>
   <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0037e2f4" officeooo:paragraph-rsid="0037e2f4"/>
+   <style:text-properties officeooo:rsid="0034287f" officeooo:paragraph-rsid="003a2acf"/>
   </style:style>
   <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0037e2f4" officeooo:paragraph-rsid="003a2acf"/>
+   <style:text-properties officeooo:rsid="0037e2f4" officeooo:paragraph-rsid="0037e2f4"/>
   </style:style>
   <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="003b1ffc" officeooo:paragraph-rsid="003b1ffc"/>
+   <style:text-properties officeooo:rsid="0037e2f4" officeooo:paragraph-rsid="003a2acf"/>
   </style:style>
   <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0034e8a8" officeooo:paragraph-rsid="0036c124"/>
+   <style:text-properties officeooo:rsid="003b1ffc" officeooo:paragraph-rsid="003b1ffc"/>
   </style:style>
   <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="003a2acf" officeooo:paragraph-rsid="003a2acf"/>
+   <style:text-properties officeooo:rsid="0034e8a8" officeooo:paragraph-rsid="0036c124"/>
   </style:style>
   <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Courier New" officeooo:rsid="000d4b34" officeooo:paragraph-rsid="0037e2f4"/>
+   <style:text-properties officeooo:rsid="003a2acf" officeooo:paragraph-rsid="003a2acf"/>
+  </style:style>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00294156" officeooo:paragraph-rsid="00294156" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="000d4b34" officeooo:paragraph-rsid="002d6195"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00294156" officeooo:paragraph-rsid="00294156" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="000d4b34" officeooo:paragraph-rsid="002d6195"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
@@ -545,10 +559,10 @@
    <text:p text:style-name="P10">2. Setting up Taylor UUCP on the host Pi</text:p>
    <text:p text:style-name="P29"/>
    <text:p text:style-name="P11"><text:span text:style-name="T1">This will be mostly the same as in the </text:span><text:span text:style-name="T11">V7 UUCP Installation Guide</text:span><text:span text:style-name="T12">, except that the restriction of the host Pi giving itself a 7 character name when communicating with the guest system doesn’t apply. </text:span><text:span text:style-name="T13">As root, open up /</text:span><text:span text:style-name="T22">etc/uucp/sys</text:span><text:span text:style-name="T13"> in your text editor of choice. Leave the defaults at the top of the file in place.</text:span></text:p>
-   <text:p text:style-name="P38"/>
-   <text:p text:style-name="P38">Add the following block of text:</text:p>
-   <text:p text:style-name="P38"/>
-   <text:p text:style-name="P38"><text:tab/><text:span text:style-name="T16">system </text:span><text:span text:style-name="T17">211</text:span><text:span text:style-name="T16">name</text:span></text:p>
+   <text:p text:style-name="P39"/>
+   <text:p text:style-name="P39">Add the following block of text:</text:p>
+   <text:p text:style-name="P39"/>
+   <text:p text:style-name="P39"><text:tab/><text:span text:style-name="T16">system </text:span><text:span text:style-name="T17">211</text:span><text:span text:style-name="T16">name</text:span></text:p>
    <text:p text:style-name="P36"><text:tab/>time any n</text:p>
    <text:p text:style-name="P36"><text:tab/>max-retries n</text:p>
    <text:p text:style-name="P36"><text:tab/>call-login pi-login</text:p>
@@ -562,27 +576,27 @@
    <text:p text:style-name="P35"/>
    <text:p text:style-name="P12"><text:soft-page-break/>The argument to &quot;s<text:span text:style-name="T16">ystem</text:span>&quot; should be the name you gave to the <text:span text:style-name="T15">2.11 BSD</text:span> system when setting up UUCP. Call-login should use the same <text:span text:style-name="T15">user </text:span>name you created in <text:span text:style-name="T16">/etc/passwd</text:span> on <text:span text:style-name="T15">2.11 BSD</text:span>, and <text:s/>call-password should be the same password you set up with <text:span text:style-name="T16">passwd</text:span> in the last step of the <text:span text:style-name="T15">2.11 BSD </text:span>instructions. For &quot;<text:span text:style-name="T16">time</text:span>&quot;, the &quot;<text:span text:style-name="T16">any</text:span>&quot; keyword means that Taylor UUCP can call <text:span text:style-name="T15">2.11 BSD</text:span> at any time, and the number &quot;<text:span text:style-name="T16">n</text:span>&quot; is the number of minutes you want it to wait between attempts to call <text:span text:style-name="T15">2.11 BSD</text:span>. It can be omitted if you don&apos;t want to have a minimum wait time. For &quot;<text:span text:style-name="T16">max retries</text:span>&quot;, <text:span text:style-name="T16">n</text:span> is the number of times UUCP will try calling <text:span text:style-name="T15">2.11 BSD</text:span> before giving up until the next day.</text:p>
    <text:p text:style-name="P12"/>
-   <text:p text:style-name="P38">The chat script is made up of pairs of strings to expect, and the response to send</text:p>
-   <text:p text:style-name="P38">to those strings. So first, we expect nothing (that is, we immediately send the</text:p>
-   <text:p text:style-name="P38">&quot;respon<text:span text:style-name="T15">se</text:span>&quot;), wait two seconds with \d\d, and then send a carriage return, \r.</text:p>
-   <text:p text:style-name="P38">When &quot;login&quot; on <text:span text:style-name="T27">2.11 BSD</text:span> sees the carriage return, it will reprint the login prompt.</text:p>
-   <text:p text:style-name="P38">We then wait for the string &quot;ogin:&quot; (in case we miss the first letter of &quot;login:&quot;), </text:p>
-   <text:p text:style-name="P38">wait one second, and send our login name with \L. We then wait for &quot;word:&quot;, and send</text:p>
+   <text:p text:style-name="P39">The chat script is made up of pairs of strings to expect, and the response to send</text:p>
+   <text:p text:style-name="P39">to those strings. So first, we expect nothing (that is, we immediately send the</text:p>
+   <text:p text:style-name="P39">&quot;respon<text:span text:style-name="T15">se</text:span>&quot;), wait two seconds with \d\d, and then send a carriage return, \r.</text:p>
+   <text:p text:style-name="P39">When &quot;login&quot; on <text:span text:style-name="T27">2.11 BSD</text:span> sees the carriage return, it will reprint the login prompt.</text:p>
+   <text:p text:style-name="P39">We then wait for the string &quot;ogin:&quot; (in case we miss the first letter of &quot;login:&quot;), </text:p>
+   <text:p text:style-name="P39">wait one second, and send our login name with \L. We then wait for &quot;word:&quot;, and send</text:p>
    <text:p text:style-name="P12">our password with \P.</text:p>
    <text:p text:style-name="P12"/>
-   <text:p text:style-name="P39">The alternate name is just a name to identify an alternate means of calling the</text:p>
-   <text:p text:style-name="P39"><text:span text:style-name="T27">2.11 BSD</text:span> system.</text:p>
-   <text:p text:style-name="P39"/>
-   <text:p text:style-name="P39">Now edit <text:span text:style-name="T19">/etc/uucp/port</text:span>, and add the following two entries. <text:span text:style-name="T19">211-dz</text:span> is the method we use to call the <text:span text:style-name="T27">2.11 BSD</text:span> system on the first attempt, <text:span text:style-name="T28">which is just to have uucico itself try to contact the 2.11 BSD system over port 4001</text:span>, <text:span text:style-name="T19">211-dz-pipe</text:span> is the alternate method we try if that doesn&apos;t work, which is to invoke telnet and use that to try to connect.</text:p>
-   <text:p text:style-name="P39"/>
-   <text:p text:style-name="P39"><text:tab/><text:span text:style-name="T16">port </text:span><text:span text:style-name="T18">211</text:span><text:span text:style-name="T16">-dz</text:span></text:p>
+   <text:p text:style-name="P40">The alternate name is just a name to identify an alternate means of calling the</text:p>
+   <text:p text:style-name="P40"><text:span text:style-name="T27">2.11 BSD</text:span> system.</text:p>
+   <text:p text:style-name="P40"/>
+   <text:p text:style-name="P40">Now edit <text:span text:style-name="T19">/etc/uucp/port</text:span>, and add the following two entries. <text:span text:style-name="T19">211-dz</text:span> is the method we use to call the <text:span text:style-name="T27">2.11 BSD</text:span> system on the first attempt, <text:span text:style-name="T28">which is just to have uucico itself try to contact the 2.11 BSD system over port 4001</text:span>, <text:span text:style-name="T19">211-dz-pipe</text:span> is the alternate method we try if that doesn&apos;t work, which is to invoke telnet and use that to try to connect.</text:p>
+   <text:p text:style-name="P40"/>
+   <text:p text:style-name="P40"><text:tab/><text:span text:style-name="T16">port </text:span><text:span text:style-name="T18">211</text:span><text:span text:style-name="T16">-dz</text:span></text:p>
    <text:p text:style-name="P37"><text:tab/>type tcp</text:p>
    <text:p text:style-name="P37"><text:tab/>service <text:span text:style-name="T27">4001</text:span></text:p>
    <text:p text:style-name="P37"><text:tab/></text:p>
    <text:p text:style-name="P37"><text:tab/>port <text:span text:style-name="T27">211</text:span>-d<text:span text:style-name="T27">z</text:span>-pipe</text:p>
    <text:p text:style-name="P37"><text:tab/>type pipe</text:p>
    <text:p text:style-name="P37"><text:tab/>command /usr/bin/telnet -8 <text:span text:style-name="T27">4001</text:span></text:p>
-   <text:p text:style-name="P39"><text:tab/></text:p>
+   <text:p text:style-name="P40"><text:tab/></text:p>
    <text:p text:style-name="P16">Now, edit the simh b<text:span text:style-name="T23">oot.ini</text:span> file for your 2.11 BSD system. Halfway down or so, you should see something like this:</text:p>
    <text:p text:style-name="P16"/>
    <text:p text:style-name="P34"><text:tab/>set dz enabled</text:p>
@@ -591,11 +605,12 @@
    <text:p text:style-name="P34"><text:tab/>;attach -am dz 4000</text:p>
    <text:p text:style-name="P34"><text:tab/>attach dz 4000</text:p>
    <text:p text:style-name="P16"/>
-   <text:p text:style-name="P16">I had trouble getting good UUCP communication with the 2.11 BSD system using these settings. Change it to something like this:<text:line-break/><text:line-break/><text:tab/><text:span text:style-name="T18">set dz enabled</text:span></text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P52">I had trouble getting good UUCP communication with the 2.11 BSD system using these settings. Change it to something like this:<text:line-break/><text:line-break/><text:tab/><text:span text:style-name="T18">set dz enabled</text:span></text:p>
    <text:p text:style-name="P34"><text:tab/>set dz lines=8</text:p>
    <text:p text:style-name="P34"><text:tab/>set dz 8b</text:p>
    <text:p text:style-name="P34"><text:tab/>attach -a -m dz 4000</text:p>
-   <text:p text:style-name="P34"><text:soft-page-break/><text:tab/>attach dz -a -m line=7,4001;notelnet</text:p>
+   <text:p text:style-name="P34"><text:tab/>attach dz -a -m line=7,4001;notelnet</text:p>
    <text:p text:style-name="P13"/>
    <text:p text:style-name="P17">If your 2.11 BSD system is running, bring it down and wait for the <text:span text:style-name="T23">sim&gt;</text:span> prompt, then type:</text:p>
    <text:p text:style-name="P17"/>
@@ -603,61 +618,62 @@
    <text:p text:style-name="P13"/>
    <text:p text:style-name="P17">This will load the new configuration.</text:p>
    <text:p text:style-name="P13"/>
-   <text:p text:style-name="P40">Now, find a convenient file to try to send to the v7 system. Send it to the public directory on the v7 system:</text:p>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="P40"><text:tab/><text:span text:style-name="T16">$ uucp filename </text:span><text:span text:style-name="T20">211name</text:span><text:span text:style-name="T16">\!~/</text:span></text:p>
-   <text:p text:style-name="P40"/>
+   <text:p text:style-name="P41">Now, find a convenient file to try to send to the v7 system. Send it to the public directory on the v7 system:</text:p>
+   <text:p text:style-name="P41"/>
+   <text:p text:style-name="P41"><text:tab/><text:span text:style-name="T16">$ uucp filename </text:span><text:span text:style-name="T20">211name</text:span><text:span text:style-name="T16">\!~/</text:span></text:p>
+   <text:p text:style-name="P41"/>
    <text:p text:style-name="P14">&quot;<text:span text:style-name="T16">211name</text:span>&quot; of course, should be replaced with the name you used for the v7 system. Note that the ! has to be escaped with a backslash, since ! has a meaning on many modern shells.</text:p>
    <text:p text:style-name="P13"/>
-   <text:p text:style-name="P40">This queues up the file for sending. Back in the day, our system would generally make scheduled callouts to the other system (or receive scheduled callins from the other system). The uucp program would queue work to be sent during the scheduled call. Since we&apos;re just transferring between two systems that we completely control (for now), setting up a scheduled call would be overkill, and also would force us to wait for the call. Instead, we&apos;ll just tell UUCP to call immediately.</text:p>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="P40"><text:tab/><text:span text:style-name="T16">$ sudo uucico -s </text:span><text:span text:style-name="T24">211name</text:span></text:p>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="P40">If all goes well, once uucico finishes executing, we should be able to find our file in <text:span text:style-name="T19">/usr/spool/uucp/public</text:span> on the <text:span text:style-name="T29">2.11 BSD</text:span> system. On the <text:span text:style-name="T29">2.11 BSD</text:span> system, type:</text:p>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="P40"><text:tab/><text:span text:style-name="T16"># ls /usr/spool/uucppublic</text:span></text:p>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="P40">which should display:</text:p>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="P40"><text:tab/><text:span text:style-name="T16">filename</text:span></text:p>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="P40">Now send it back. On the <text:span text:style-name="T29">2.11 BSD</text:span> system, type:</text:p>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="P40"><text:tab/><text:span text:style-name="T16"># uucp /usr/spool/uucp/public/foo.c piname!~/</text:span></text:p>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="P40">Note that since the <text:span text:style-name="T19">/bin/sh</text:span><text:span text:style-name="T29"> on 2.11 BSD</text:span> doesn&apos;t interpret ! in any special way, we don&apos;t need to</text:p>
-   <text:p text:style-name="P14">escape it here. <text:span text:style-name="T29">However, if you are using csh or tcsh, you will have to escape it.</text:span></text:p>
-   <text:p text:style-name="P13"/>
-   <text:p text:style-name="P41">And then on the pi, type:</text:p>
+   <text:p text:style-name="P41">This queues up the file for sending. Back in the day, our system would generally make scheduled callouts to the other system (or receive scheduled callins from the other system). The uucp program would queue work to be sent during the scheduled call. Since we&apos;re just transferring between two systems that we completely control (for now), setting up a scheduled call would be overkill, and also would force us to wait for the call. Instead, we&apos;ll just tell UUCP to call immediately.</text:p>
    <text:p text:style-name="P41"/>
    <text:p text:style-name="P41"><text:tab/><text:span text:style-name="T16">$ sudo uucico -s </text:span><text:span text:style-name="T24">211name</text:span></text:p>
    <text:p text:style-name="P41"/>
-   <text:p text:style-name="P41">Once uucico is done, we should be able to list <text:span text:style-name="T19">/var/spool/uucppublic</text:span>, and see our file.</text:p>
+   <text:p text:style-name="P41">If all goes well, once uucico finishes executing, we should be able to find our file in <text:span text:style-name="T19">/usr/spool/uucp/public</text:span> on the <text:span text:style-name="T29">2.11 BSD</text:span> system. On the <text:span text:style-name="T29">2.11 BSD</text:span> system, type:</text:p>
    <text:p text:style-name="P41"/>
-   <text:p text:style-name="P41"><text:tab/><text:span text:style-name="T16">$ ls /var/spool/uucp/public</text:span></text:p>
+   <text:p text:style-name="P41"><text:tab/><text:span text:style-name="T16"># ls /usr/spool/uucppublic</text:span></text:p>
    <text:p text:style-name="P41"/>
-   <text:p text:style-name="P42"><text:soft-page-break/>If you want to <text:span text:style-name="T30">have the Pi poll the 2BSD system automatically on a schedule (for example, if you’ll be transferring mail or news), instead of running uucico yourself every time you have something to send, either add the system to /etc/uucp/Poll:</text:span></text:p>
+   <text:p text:style-name="P41">which should display:</text:p>
+   <text:p text:style-name="P41"/>
+   <text:p text:style-name="P41"><text:tab/><text:span text:style-name="T16">filename</text:span></text:p>
+   <text:p text:style-name="P41"/>
+   <text:p text:style-name="P41">Now send it back. On the <text:span text:style-name="T29">2.11 BSD</text:span> system, type:</text:p>
+   <text:p text:style-name="P41"/>
+   <text:p text:style-name="P41"><text:tab/><text:span text:style-name="T16"># uucp /usr/spool/uucp/public/foo.c piname!~/</text:span></text:p>
+   <text:p text:style-name="P41"/>
+   <text:p text:style-name="P41">Note that since the <text:span text:style-name="T19">/bin/sh</text:span><text:span text:style-name="T29"> on 2.11 BSD</text:span> doesn&apos;t interpret ! in any special way, we don&apos;t need to</text:p>
+   <text:p text:style-name="P14">escape it here. <text:span text:style-name="T29">However, if you are using csh or tcsh, you will have to escape it.</text:span></text:p>
+   <text:p text:style-name="P13"/>
    <text:p text:style-name="P42"/>
-   <text:p text:style-name="P44"><text:tab/><text:span text:style-name="T23">schedule 211name hours</text:span></text:p>
-   <text:p text:style-name="P44"/>
-   <text:p text:style-name="P44">where “hours” is a list of two-digit hours of the day (between 00 and 23) specifying at what times calls to the BSD system should be made,</text:p>
+   <text:p text:style-name="P53">And then on the pi, type:</text:p>
    <text:p text:style-name="P42"/>
-   <text:p text:style-name="P47"><text:s/>or edit /etc/cron.d/uucp to poll the system directly:</text:p>
+   <text:p text:style-name="P42"><text:tab/><text:span text:style-name="T16">$ sudo uucico -s </text:span><text:span text:style-name="T24">211name</text:span></text:p>
    <text:p text:style-name="P42"/>
-   <text:p text:style-name="P42"><text:tab/><text:span text:style-name="T23">0 <text:s text:c="4"/>* <text:s text:c="6"/>* <text:s text:c="6"/>* <text:s text:c="6"/>* <text:s text:c="6"/>uucp <text:s text:c="3"/>/usr/sbin/uucico -x3 -f -s 211name</text:span></text:p>
+   <text:p text:style-name="P42">Once uucico is done, we should be able to list <text:span text:style-name="T19">/var/spool/uucppublic</text:span>, and see our file.</text:p>
    <text:p text:style-name="P42"/>
-   <text:p text:style-name="P44">which calls the system every hour, on the hour. <text:span text:style-name="T32">You could use something like</text:span></text:p>
-   <text:p text:style-name="P44"/>
-   <text:p text:style-name="P43"><text:span text:style-name="T23"><text:tab/></text:span><text:span text:style-name="T25">*/</text:span><text:span text:style-name="T26">15</text:span><text:span text:style-name="T23"> <text:s text:c="4"/>* <text:s text:c="6"/>* <text:s text:c="6"/>* <text:s text:c="6"/>* <text:s text:c="6"/>uucp <text:s text:c="3"/>/usr/sbin/uucico -x3 -f -s 211name</text:span></text:p>
-   <text:p text:style-name="P44"/>
-   <text:p text:style-name="P48">to run uucico every 15 minutes.</text:p>
+   <text:p text:style-name="P42"><text:tab/><text:span text:style-name="T16">$ ls /var/spool/uucp/public</text:span></text:p>
+   <text:p text:style-name="P42"/>
+   <text:p text:style-name="P43">If you want to <text:span text:style-name="T30">have the Pi poll the 2BSD system automatically on a schedule (for example, if you’ll be transferring mail or news), instead of running uucico yourself every time you have something to send, either add the system to /etc/uucp/Poll:</text:span></text:p>
+   <text:p text:style-name="P43"/>
+   <text:p text:style-name="P45"><text:tab/><text:span text:style-name="T23">schedule 211name hours</text:span></text:p>
    <text:p text:style-name="P45"/>
-   <text:p text:style-name="P45">The Poll file is called by a line in the uucp crontab, every hour. It’s not mentioned in the Taylor BSD documentation (that I could find), so I’m not sure of all the syntax for it. Thus, for my system, I have scheduled the call directly in the crontab, <text:span text:style-name="T31">as the crontab format is well documented. The documentation can be accessed from the shell by typing:</text:span></text:p>
-   <text:p text:style-name="P44"/>
-   <text:p text:style-name="P49"><text:tab/>$ man 5 crontab</text:p>
-   <text:p text:style-name="P42"/>
-   <text:p text:style-name="P46">The basic gist of the format is that the first five fields are the minute, hour, day of month, month, and day of week, the sixth field is the user to run as, and the rest of the line is the command to run. <text:s/>A cron line is run any time the current time matches all three of the minute, hour, and month fields, and either one of the day of month or day of week fields. Names can be used for months and days of the week. A * in a field will match any time. Ranges, designated with dash, can be used (e.g, <text:span text:style-name="T33">1-5 </text:span>in the day of week field will match any <text:span text:style-name="T33">day that isn’t a weekend), a field can contain a list separated with commas, and /&lt;number&gt; runs at every step of so many minutes/hours/etc. For example */10 in the minutes field will run at every minute divisible by ten, 9-17/2 in the hours field will run at 9 AM, and then every other hour until 5 PM.</text:span></text:p>
-   <text:p text:style-name="P42"/>
+   <text:p text:style-name="P45">where “hours” is a list of two-digit hours of the day (between 00 and 23) specifying at what times calls to the BSD system should be made,</text:p>
+   <text:p text:style-name="P43"/>
+   <text:p text:style-name="P48"><text:s/>or edit /etc/cron.d/uucp to poll the system directly:</text:p>
+   <text:p text:style-name="P43"/>
+   <text:p text:style-name="P43"><text:tab/><text:span text:style-name="T23">0 <text:s text:c="4"/>* <text:s text:c="6"/>* <text:s text:c="6"/>* <text:s text:c="6"/>* <text:s text:c="6"/>uucp <text:s text:c="3"/>/usr/sbin/uucico -x3 -f -s 211name</text:span></text:p>
+   <text:p text:style-name="P43"/>
+   <text:p text:style-name="P45">which calls the system every hour, on the hour. <text:span text:style-name="T32">You could use something like</text:span></text:p>
+   <text:p text:style-name="P45"/>
+   <text:p text:style-name="P44"><text:span text:style-name="T23"><text:tab/></text:span><text:span text:style-name="T25">*/</text:span><text:span text:style-name="T26">15</text:span><text:span text:style-name="T23"> <text:s text:c="4"/>* <text:s text:c="6"/>* <text:s text:c="6"/>* <text:s text:c="6"/>* <text:s text:c="6"/>uucp <text:s text:c="3"/>/usr/sbin/uucico -x3 -f -s 211name</text:span></text:p>
+   <text:p text:style-name="P45"/>
+   <text:p text:style-name="P49">to run uucico every 15 minutes.</text:p>
+   <text:p text:style-name="P46"/>
+   <text:p text:style-name="P46">The Poll file is called by a line in the uucp crontab, every hour. It’s not mentioned in the Taylor BSD documentation (that I could find), so I’m not sure of all the syntax for it. Thus, for my system, I have scheduled the call directly in the crontab, <text:span text:style-name="T31">as the crontab format is well documented. The documentation can be accessed from the shell by typing:</text:span></text:p>
+   <text:p text:style-name="P45"/>
+   <text:p text:style-name="P38"><text:tab/>$ man 5 crontab</text:p>
+   <text:p text:style-name="P43"/>
+   <text:p text:style-name="P47">The basic gist of the format is that the first five fields are the minute, hour, day of month, month, and day of week, the sixth field is the user to run as, and the rest of the line is the command to run. <text:s/>A cron line is run any time the current time matches all three of the minute, hour, and month fields, and either one of the day of month or day of week fields. Names can be used for months and days of the week. A * in a field will match any time. Ranges, designated with dash, can be used (e.g, <text:span text:style-name="T33">1-5 </text:span>in the day of week field will match any <text:span text:style-name="T33">day that isn’t a weekend), a field can contain a list separated with commas, and /&lt;number&gt; runs at every step of so many minutes/hours/etc. For example */10 in the minutes field will run at every minute divisible by ten, 9-17/2 in the hours field will run at 9 AM, and then every other hour until 5 PM.</text:span></text:p>
+   <text:p text:style-name="P43"/>
    <text:p text:style-name="P15">That&apos;s it! We&apos;ve set up UUCP.</text:p>
   </office:text>
  </office:body>
